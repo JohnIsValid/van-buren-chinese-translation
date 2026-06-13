@@ -1,0 +1,59 @@
+{c255}Welcome to our humble camp. You may rest as long as you wish, so long as you don't cause any trouble. 
+{c16711680}Who are you?
+{c16711680}Who you?
+{c16711680}I'm not here to rest, I'm here to kill you.
+{c16711680}Me not tired. Me here to kill you.
+{c16711680}Goodbye.
+{c255}Yes? Is there something else you need?
+{c16711680}I spoke to O'Connor. He's agreed to allow the Mormons to live in Jericho, despite what you've done.
+{c16711680}Sheriff say Marmets can live in town.
+{c16711680}Why are you attacking Jericho's caravans?
+{c16711680}Why you attack caravans?
+{c16711680}Why do you have to chase away the people at Jericho? Can't you just live alongside them?
+{c16711680}Um, why you not just live next to everybody at Jericho and not scare them away?
+{c16711680}Prepare to die.
+{c16711680}Me kill you so you die.
+{c255}I'm Jeremiah, Living Prophet and leader of the Mormon church. Is there something I can do for you?
+{c16711680}You can die.
+{c16711680}You die.
+{c255}We haven't killed anyone. We've destroyed property, yes, but we're not murderers. The water caravans feed that den of sin. We'll squeeze the town dry until they have no choice but to get off our land.
+{c16711680}Your land? How is it your land?
+{c16711680}They on your land?
+{c16711680}Whatever. Just shut up and die.
+{c16711680}You go be dead now, okay?
+{c255}Our town, New Canaan, once stood on that land. It was destroyed several years ago, and now when we return to rebuild, we find these squatters on the ashes of our old home.
+{c16711680}What happened to New Canaan?
+{c16711680}What happen to town?
+{c16711680}You're about to join New Canaan.
+{c16711680}Me destroy you.
+{c255}It was a beacon of morality in this forsaken wasteland. We took in lost souls, fed them, clothed them, and introduced them to God.
+{c16711680}Go on.
+{c16711680}You talk more.
+{c16711680}Enough talk. Time for you to die.
+{c16711680}Me kill you now.
+{c255}The number of refugees became overwhelming, and we didn't have enough food, water, and shelter for them all. We were forced to turn many away. The situation became ugly.
+{c16711680}Then what happened?
+{c16711680}Then what happen?
+{c16711680}No more talking. Die!
+{c16711680}Me bored, so me kill you now.
+{c255}A large group of men decided to {i}take {} from us what we couldn't give. They battered down our gates, overwhelmed our militia, burned our homes, and murdered our people. 
+{c16711680}I see. So, why can't you just rebuild somewhere else?
+{c16711680}Maybe you build town somewhere else?
+{c16711680}I'm just going to kill you now, okay?
+{c255}God spoke to me, and His words were {b}clear. {}We {i}must {}rebuild where Jericho now stands, and this can't happen until those sinners have been driven off. 
+{c16711680}Why do they have to be chased off? Can't you just live alongside them?
+{c16711680}Um, why you not just live next to everybody?
+{c16711680}I'll have to kill you, then.
+{c16711680}Me make you dead!
+{c255}New Canaan was a pure community. Are you suggesting that we simply live alongside sin? Ignore their numerous transgressions against God? 
+{c16711680}Consider it a challenge. Think about it - all those sinners, just {i}waiting {}to hear the word of God and be shown the error of their ways.
+{c16711680}Um... yeah? No more fighting, everybody happy. Maybe you teach them how to be Marmets, too.
+{c16711680}Forget it. Just die.
+{c16711680}No more talking. Me kill you.
+{c255}What you say makes sense, but will O'Connor allow us to live in Jericho? My men and I destroyed several caravans, and O'Connor does not seem to be a forgiving man.
+{c255}God works in mysterious ways, and it was the simplest of His children who pointed out a solution for me. Please, tell O'Connor that we {i}Mormons {}are sorry, and that we would like a place in Jericho.
+{c16711680}I'll go talk to him about it. Goodbye.
+{c16711680}Me go talk to him, say Marmets good guys. Goodbye.
+{c255}I'd sooner invite the Devil himself to dinner rather than permit a whorehouse to stand in the same town as a Mormon church. Enough of this. Leave!
+{c255}Your heart is in the right place, my friend, but you simply can't see the situation like I can. Enough ? I won't talk about this anymore.
+{c255}Thank you for bringing about a peaceful resolution to this dispute. I have little to offer you as a reward, but please, take these items.

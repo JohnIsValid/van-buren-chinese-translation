@@ -1,0 +1,49 @@
+{c255}Hi there, stranger! Welcome to Jericho!
+{c16711680}Who are you?
+{c16711680}Hello. Who you?
+{c16711680}Goodbye.
+{c255}Hey, there! Need something from Doc Lane's big bag of medicine, or just some some supplies? 
+{c255}Oh, um, hey. You need some supplies?
+{c255}You again. What now?
+{c255}Hey, friend! You need some supplies today?
+{c16711680}Show me what you have for sale.
+{c16711680}Me buy stuff.
+{c16711680}Anything happening around here?
+{c16711680}Stuff going on here?
+{c16711680}I need your services.
+{c16711680}You fix me.
+{c16711680}You know, it occurs to me that I should get a discount for keeping your lack of medical skill a secret.
+{c16711680}If you want, I could teach you some real medical skills.
+{c255}I'm Doc Lane. I run this general store, and I'm also the town doctor. 
+{c255}I'm Doc Lane, and you, it seems, should've taken more Mentats when you were growing up. I run this store, and I'm also the town doctor.
+{c16711680}Me buy things.
+{c16711680}Anything interesting happening around here?
+{c255}Heard there's a bunch of religious crazies attacking the caravans. I figure they're probably after the water to give to their brahmin god or something. Talk to the sheriff if you want to know more.
+{c255}It's been pretty quiet around here ever since you solved the problem with those crazy Mormons. Town's doing great, thanks to you. I hope this means Anson's going to get some more girls in soon.
+{c255}You've come to the right man. Okay, let's see... you need some stimpaks, or something stronger? Rad-Away, maybe? 
+{c16711680}Show me what you have.
+{c16711680}I thought {i}you{} were supposed to be the doctor.
+{c16711680}Uh... um... you not understand me, maybe? Me need doctor.
+{c255}I {i}am {}the doctor. You said you needed my services, and I'm prescribing you some medicine. 
+{c16711680}Fine. Show me what you have.
+{c16711680}Oh, okay. Me buy medicine, then.
+{c16711680}Okay, "Doc", where's the anterior cruciate ligament?
+{c255}It's, uh, I'm pretty sure I know this one... right above the heart?
+{c16711680}Middle of the knee, actually. You don't have any medical training at all, do you?
+{c255}All right, all right, I confess! I just said I was a doctor because, well, the town hasn't got one. Wait... if you know where the anterior liga-thingie is, why were you asking {i}me {}to patch {i}you {}up?{u}
+{c16711680}Forget about it. Just show me what you have for sale.
+{c16711680}Shut up. I want a discount at your store or I'll tell everyone you're a fraud.
+{c16711680}Maybe I'm just lazy. In any case, if you've got the time, I could teach you some {i}real {}doctor skills.
+{c255}*sigh* All right, ten percent off on everything. Just don't tell anyone about me!
+{c16711680}Deal. Show me what you have.
+{c16711680}A twenty percent discount sounds a {i}lot {}better than being run out of town, don't you think?
+{c16711680}No - thirty percent off. As the only store in town, you must make a quite a nice profit, and you can afford to hand some of that to {i}me{}.
+{c16711680}It's a deal. Goodbye.
+{c255}No way! Anything more than ten percent would ruin me.{u}
+{c255}Fine, fine. You'll get a twenty percent discount, but don't expect friendly service!{u}
+{c255}You're going to ruin me, I know it. But, thirty percent off it is, and not a single cap more.{u}
+{c16711680}Too bad for you. I'll just kill you and loot your store, then.
+{c16711680}We have a deal. Goodbye.
+{c255}Well, I guess I should at least know how to set a broken bone.{u}
+{c16711680}I'll show you how to do that in addition to some other simple first aid treatments.
+{c16711680}Actually, this is a waste of my time. Goodbye.

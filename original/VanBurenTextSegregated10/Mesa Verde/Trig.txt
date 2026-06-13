@@ -1,0 +1,141 @@
+{c255}I'd love to talk, but I'm a little busy at the moment.
+{c16711680}Who are you?
+{c16711680}Who you?
+{c16711680}Goodbye.
+{c255}Arrrgh! Stupid piece of junk! Why aren't you {i}working{}?
+{c255}Hi there. What's new?
+{c16711680}Show me what you have for sale.
+{c16711680}Me buy things.
+{c16711680}What do you do here, Trig?
+{c16711680}What you do here?
+{c16711680}What are you working on?
+{c16711680}What you doing?
+{c16711680}Your laser cannon needs a new set of capacitors. The ones you have installed {i}look {}okay, but they're immediately discharging any energy the cells pour into them.
+{c16711680}Big gun thingie need new... uh... thingie. [You do your best to describe what's wrong with the cannon.]
+{c16711680}I fixed your laser cannon. It just needed a new set of capacitors. So, can we shoot something, or {i}someone{}, with it now?
+{c16711680}Me fix gun thingie. It need new, uh, thingies. Me wanna shoot stuff!
+{c16711680}I'd like to buy your inventions.
+{c16711680}Me buy those things you made.
+{c16711680}I have the money for your inventions.
+{c16711680}Me not poor anymore. Me buy things you made.
+{c16711680}You wouldn't happen to know how to build a docking clamp, would you?
+{c16711680}Me need clamp thingie built. You know how?
+{c255}I'm Trig, and... damn it, {i}why {}isn't this stupid thing working?
+{c16711680}What job you do here?
+{c16711680}What's that thing near the cliff? Some sort of weapon?
+{c16711680}What big thingie by cliff?
+{c255}Trying to rig an electronic sound alarm for the village ? you know, to warn us when people are coming up the path.
+{c16711680}Oh, I see. Show me what you have for sale.
+{c16711680}Oh. Me buy things.
+{c16711680}Interesting. What else do you do around here?
+{c16711680}Uh, okay. What more you do here?
+{c16711680}I know something about electronics. Mind if I take a look?
+{c16711680}Me know that stuff. Gimme.
+{c16711680}You don't anything that fancy. I'll show you how to make a simple alarm using materials found in the wild.
+{c16711680}That no good. Me show you how to build noisy thing with sticks and stuff.
+{c255}Well, normally I don't trust anything that doesn't run off a battery, but I guess it'll have to do. Show me.
+{c16711680}[You show her how to build a primitive but effective alarm.]
+{c255}Well, I guess it'll do for now. Thanks!
+{c16711680}No problem. Show me what you have for sale.
+{c16711680}Yup! Me buy things now.
+{c255}Go ahead. I'm ready to throw the damn thing over the cliff.
+{c16711680}Hmmm... trying connecting that wire {i}here {}and this wire over {i}there{}. Okay, that should do it. [The alarm starts shrieking.]
+{c16711680}Um... that go {i}here{}, that go {i}there{}. Okay, maybe it work now. [The alarm starts shrieking.]
+{c255}Hey, thanks! With this, it'll be impossible for anyone to sneak up on the village.
+{c16711680}That looks like some sort of cannon at the edge of the cliff.
+{c16711680}What big gun thingie over there?
+{c255}Well, it's {i}supposed {}to be a high-yield laser cannon, but right now it's just a useless piece of junk.
+{c16711680}Who did you want to shoot?
+{c16711680}You shoot somebody?
+{c16711680}What's wrong with it?
+{c16711680}Why it not work?
+{c255}Those damn Vipers who are keeping us bottled up in the village. The cannon has got a clear shot at them. Now, if I can just get it working...
+{c255}Well, I really wanted to shoot those Vipers with it, but they're gone now, so I'm going to take it down and use the parts in something else. The cannon never worked, anyway.
+{c16711680}What's wrong with the cannon?
+{c16711680}Why gun thingie broken?
+{c255}Go ahead, but be really, {i}really {}careful with it. Most of the parts I used to make it are just about impossible to find.
+{c-16777216}
+{c255}Oh, I fix broken electronics people bring in and trade them for other things. I also try to invent new electronics whenever I have the parts.
+{c-16777216}
+{c16711680}Do you have anything to trade now?
+{c16711680}Me can buy things now?
+{c16711680}So, what have you invented?
+{c16711680}What you make?
+{c255}Here, I'll show you what I have available.
+{c-16777216}
+{c255}I've only managed to make two things which work ? sort of. One's a device which scares away animals for some reason ? dogs in particular. I was trying to build an alert system for the village.
+{c-16777216}
+{c16711680}And the other one?
+{c16711680}That not two. One plus one equal... two. What number two?
+{c255}The other invention is this low-powered laser pointer. All it does is shoot a red beam at whatever you point it at, and that's it. It was {i}supposed {}to be a miniature death ray.
+{c-16777216}
+{c16711680}Are you willing to sell either of them?
+{c16711680}Me buy them!
+{c255}Everytime I try to fire it, it ends up draining the fusion cells without doing a damn thing. I'm not sure how to fix the problem.
+{c-16777216}
+{c16711680}Mind if I take a look at it?
+{c16711680}Me go look at it.
+{c255}You actually want to {i}buy {}them? Well, it's your money. 100 caps for both of them.
+{c-16777216}
+{c16711680}Done.
+{c16711680}Okay.
+{c16711680}That's pretty pricey for a couple of inventions which don't do what they're supposed to. 75 caps is much more fair.
+{c16711680}Nuh-uh! They not work, so me give you... um... uh... not 100.
+{c16711680}Sorry, I don't have the cash on me right now.
+{c16711680}Ugh. Me too poor. Can't buy.
+{c255}Well, I doubt anyone else wants them, so come talk to me again when you get the money.
+{c-16777216}
+{c255}All right, 75 it is.
+{c-16777216}
+{c255}*sigh* All right, not 100. How about 75?
+{c-16777216}
+{c16711680}Deal.
+{c16711680}Damn, I just realized I don't have the money.
+{c16711680}Eek! Me too poor! Can't buy.
+{c255}Damn. I'm out of capacitors. However, there's a place a little west of here called Fort Abandon where I trade for parts once in awhile. Maybe you can find those there.
+{c-16777216}
+{c255}I'm really sorry, but I don't understand what you mean. 
+{c-16777216}
+{c16711680}Lucky for you, I happen to have a spare set of capacitors on me.
+{c16711680}Gah! It need these thingies! [Show her the spare capacitors you have.]
+{c16711680}Thanks for the information. Goodbye
+{c16711680}Ugh. Goodbye.
+{c255}Lucky me, indeed. Come on, let's hurry up and install those things. Those Vipers are going to be in for {i}such {}a surprise.
+{c-16777216}
+{c255}Oh, {i}those{}. Why didn't you just show them to me in the first place? Come on, let's hurry and up and install those things. We've got some Vipers to toast.
+{c-16777216}
+{c16711680}Let's do it.
+{c16711680}Yeah, yeah!
+{c16711680}Hold on. I'm not just {i}giving {}these to you. I'd like some payment first, please.
+{c16711680}Hey, these not free! Gimme money!
+{c255}Okay. So, what if trade you a geiger counter and an infrared helmet for them? Would that be good enough for you?
+{c-16777216}
+{c16711680}Sounds good. Let's get these capacitors installed.
+{c16711680}Yeah, me like. We go fix gun thingie now.
+{c16711680}No, sorry. That's not good enough.
+{c16711680}Nope. Gimme more.
+{c255}That's all the items I can spare. If we can't make a deal, then I guess I'll have to find those capacitors somewhere else.
+{c-16777216}
+{c16711680}All right, fine. We have a deal. Let's get these capacitors installed.
+{c16711680}Okey-dokey. Me take stuff. Now we go fix gun thingie.
+{c16711680}I guess so. Goodbye.
+{c16711680}Me keep gun thingies parts then. Goodbye.
+{c255}I can't believe you fixed it without me. Oh, well ? let's go toast some Vipers!
+{c-16777216}
+{c16711680}Sounds good to me.
+{c16711680}Hee hee! Fun!
+{c255}Okay, here you go. I hope they're useful, somehow.
+{c-16777216}
+{c255}No, I don't think so. 100 caps, or I hang onto them.
+{c-16777216}
+{c16711680}All right. Here's 100 caps.
+{c16711680}Okay. Here money.
+{c16711680}I don't have the caps right now.
+{c16711680}Argh. Me poor! Can't buy.
+{c16711680}Keep them, then. Goodbye.
+{c16711680}Me not want them anymore. Goodbye.
+{c255}I have no idea what that is, but you might still be in luck. My cousin, Symm, showed up yesterday. He travels all over the wasteland, collecting odd schematics. He might have what you need.
+{c-16777216}
+{c16711680}Where is he?
+{c16711680}Where he?
+{c255}Up at the top of the mesa, inspecting the condensors. Azkee didn't waste any time putting him to work, as usual.

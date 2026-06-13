@@ -1,0 +1,92 @@
+{c255}Howdy, stranger! Not many souls come visit the Grand Canyon these days. I'm Santiago, leader of this sorry-looking bunch. Who might you be?
+{c16711680}I'm . What are you doing here?
+{c16711680}Hello! Me . What you do here?
+{c16711680}Goodbye.
+{c255}Howdy again! Came back to enjoy the view, eh?
+{c16711680}Show me what you have for sale.
+{c16711680}I buy stuff from you now.
+{c16711680}I'm looking for a satellite which is supposed to have crashed near here. Know anything about it?
+{c16711680}Me look for big space thing which fall out of sky. Know where it be?
+{c16711680}Can I ask you some questions about the Grand Canyon?
+{c16711680}Hello, San Diego. I ask questions about canyon, okay?
+{c16711680}Do you know anything about the tram I saw on the North Rim?
+{c16711680}What is flying box me see at north?
+{c16711680}I was thinking about fixing the tram.
+{c16711680}Me want to fix flying box.
+{c16711680}Any news on the parts for the tram?
+{c16711680}Got parts for flying box?
+{c16711680}I want you to watch over the tram and collect tolls from the caravans for me.
+{c16711680}You watch flying box for me? Take money from people with moos and carts?
+{c255}Me and my boys here were salvagers. Santiago's Salvagers, that's what they used to call us. I guess you could that we're retired. {u}
+{c255}Ah, missing a few gears upstairs, are ya? Well, no matter. Known plenty of honest, hard-working folks who weren't exactly the smartest cookies in the bunch. So, what can I do you for?
+{c16711680}Do you anything about the tram on the North Rim?
+{c16711680}Can I ask you some questions about the Grand Canyon?{i}
+{c16711680}Me ask questions about canyon?
+{c255}Sure, fire away.{u}
+{c255}It's hot and it's radioactive, but it's got a lot of old equipment which is extremely valuable to salvagers like us. It's not exactly the sort of place you want to go sight-seeing in.{u}
+{c255}Oh, the usual oversized wasteland beasts ? radscorpions, bees, lizards. Saw a huge two-headed rattlesnake once. I'm sure there are worse things down there.{u}
+{c255}Go well-armed, bring a lot of Rad-X and Rad-Away, and don't bother with heavy armor ? the heat will drop you a heck of a lot faster if you're wearing anything heavier than leather.{u}
+{c16711680}What can you tell me about the canyon itself?{i}
+{c16711680}You know things about big canyon?
+{c16711680}What kind of creatures can I expect in the canyon?
+{c16711680}What bad things be in canyon?
+{c16711680}Any advice for traveling in the canyon?
+{c16711680}Me want advice for walking in canyon.
+{c16711680}I have no more questions about the canyon. Show me what you have for sale.
+{c16711680}No more questions. Me buy things now.
+{c255}That old thing? Well, I guess in the old days people used it as a fast way to cross the gorge, but the machinery has been stripped of most of its parts now. Why do you ask?{u}
+{c255}Big box thing? Hmmm... ah! That's the tram. It, uh, makes you fly across the canyon. Why do you ask?{u}
+{c16711680}Maybe I can repair it.
+{c16711680}I make it fly again?
+{c255}Good luck with {i}that{}. One of the other groups stripped the machinery pretty good, and from the looks of it, I'd say you're probably not going to find those parts anywhere else in the wasteland.{u}
+{c16711680}Do you think you could get those parts back for me?
+{c16711680}You get parts back from friends?
+{c255}Maybe. If those guys haven't gotten rid of the parts yet, they might be real eager to sell by now.{u}
+{c16711680}All right, see what you can do.
+{c16711680}Okay.
+{c255}I sent the word out, but nothing yet. Give it a few more days.{u}
+{c255}Yup, I actually got the parts back. Seems that the other guys weren't able to trade them away yet, lucky for you. Here you go.{u}
+{c255}Howdy. As you can see, things around here have changed somewhat since the last time you visited.{u}
+{c16711680}What are you talking about? Who are all these guys?
+{c16711680}Who these people, San Diego? What they doing?
+{c255}Said they're from the Crimson Caravan, and that we're squatting on their territory. I know it's a damn lie, but we're old men. Not much we can do about.{u}
+{c16711680}I'll take them out.
+{c16711680}Me will kill{b} {}them.
+{c16711680}I'll to talk to their leader.
+{c16711680}Me go talk to bad guy leader.
+{c255}I figured you might do that. Look, when you make your move, me and the boys will back you up. I can't promise we'll be much help, but we might distract 'em enough for you to get your shots in.{u}
+{c255}They don't seem to be the reasonable type, so watch your back.{u}
+{c255}Hoo-boy! Haven't had that much fun in awhile, but damn, I'm gonna feel it tomorrow. We were lucky you came along this time. Next time ? if there {i}is {}a next time ? it could be real bad for us.{u}
+{c16711680}I can show you how to shoot better. If you hold your gun like this, your arms will absorb the recoil better and you can fire multiple shots more accurately...
+{c16711680}Uh, San Diego not shoot good. I show you how to shoot good. Shoot bad people better next time.
+{c16711680}Just in case there is a next time, let me show you some ways to do a lot of damage in a short amount of amount of time using a lead pipe.
+{c16711680}San Diego and friends not know how to fight good with sticks and knives and stuff. Here, me show you how to bash groin real good with pipe.
+{c16711680}I'll show you some unarmed combat moves which will help you defeat someone even if he's bigger and stronger than you.
+{c16711680}I show you good way to punch. No need guns or sticks.
+{c255}I'm mighty impressed. You just {i}asked {}those thugs to return the Shortcut to us, and they gave it up without a fight? I sure hope you're around the next time this happens.{u}
+{c16711680}I can show you how to shooter better. If you hold your gun like this, your arms will absorb the recoil better and you can fire multiple shots more accurately...
+{c16711680}Just in case there is a next time, let me show you some ways to do a lot of damage in a short of amount of time using a lead pipe.
+{c16711680}San Diego and friends not know how to fight good with sticks and knives and stuff. Here, me show you how to bash groin real good with pipe.
+{c255}You got it working! And, you had the guts to ride this thing across the across the canyon ? must've been a hell of a view. So, what's the plan now? {u}
+{c16711680}The Grand Canyon's location probably interferes with trade routes. Caravans could use the tram as a shortcut... after paying a toll, of course.
+{c16711680}Canyon blocks peoples with carts and moos from bring stuff. They use box to fly across canyon. Me make them pay money.
+{c16711680}I can't think of anything right now. Goodbye.
+{c16711680}Not know right now. Goodbye.
+{c255}That's a great idea. I know there are a couple of caravan that usually have to swing around the canyon to avoid the high radiation areas. You're going to need somebody to look after the place when you're gone, you know.{u}
+{c16711680}And you want to be that person?
+{c16711680}Me guess so. Who do that job?
+{c255}Of course! Unless you plan on sticking around full-time, I'm perfect for the job. I'll work for cheap ? just a handle of caps for expenses. I don't associate with loose women, I-{u}
+{c255}*sigh* I was trying to hint to you that {i}I {}could do that job, since I doubt you want to hang around here full-time.{u}
+{c16711680}All right, all right. The job's yours.
+{c16711680}Okay, you can do job.
+{c16711680}No. Goodbye.
+{c255}Thanks! You won't regret this! Check back every couple of weeks for your share of the loot.{u}
+{c255}Welcome to Santiago's Trading Post, where the prices are low and the booze is strong! Heh heh. Still working on my pitch. Maybe I could interest you in something?{u}
+{c16711680}Sure, show me what you have.
+{c16711680}Okay, me buy things.
+{c16711680}Actually, I'm here to pick up the toll money.
+{c16711680}No, me here for money.
+{c255}Here you go.{u}
+{c255}Sorry, but you've already collected the toll. Come back in a week or so and there should be more waiting for you.{u}
+{c16711680}Me buy things.
+{c255}Hmmm... some of the other guys say a big fireball smacked the canyon a good one a few years back. They said it landed somewhere to the west. Could be this thing you're looking for.{u}

@@ -1,0 +1,45 @@
+{c16711680}I'll help you.
+{c255}Hey, you! Don't move or I'll shoot! Who are you?
+{c16711680}I'm . Who are you?
+{c16711680}Me . Who you?
+{c16711680}Shut up and die, tribal!
+{c16711680}You die!
+{c255}Hey, I can't talk right now.
+{c16711680}Goodbye.
+{c255}Uh, I'm Hex. What are you doing here?
+{c16711680}I'm exploring. What is this place??
+{c16711680}Me exploring. What here?
+{c16711680}I'm looking for a particular electronic part, and I've heard the Ciphers might have what I'm looking for.
+{c16711680}Me need part. Me told it be here.
+{c16711680}I'm here to kill you all.
+{c16711680}Me kill you all!
+{c255}This is Mesa Verde. How'd you get past the Vipers in the canyon?
+{c16711680}I killed them all.
+{c16711680}Me kill them.
+{c16711680}I snuck past them. So, can I come inside now?
+{c16711680}Me sneaky. Um, you in me way. Move.
+{c16711680}I flew over them, of course. It's the only way to travel.
+{c255}You... you did? Well, uh, I guess you can come into the village, then.
+{c255}Uh, I'm not sure if I'm supposed to let you inside.
+{c16711680}You're the only guard I see, and you don't {i}know {}if you can let me inside?
+{c16711680}Me not understand.
+{c16711680}Let me in right {b}now {}or I'll take that crappy rifle of yours and shove it so far up your ass you'll be tasting gunpowder for weeks.
+{c16711680}Me go in {b}now{} or me tear you arm off and beat you!
+{c255}*gulp* Go right in, sir.
+{c255}*gulp* Go right in, ma'am.
+{c255}Ha! If {i}that's{} as scary as you can get, then I suppose I could handle you if you make trouble. Go on in.
+{c255}Oh. You'd have to talk to Trig about that.
+{c16711680}All right, I will. So, are you going to let me in or what?
+{c16711680}Okay. Um, you still in me way.
+{c255}Look, I may be young, but I'm not stupid. I know outsiders can't fly. Um, you can't... right?
+{c16711680}Yes, I was joking. Actually, I'm exploring. Are you going to let me in your village?
+{c16711680}I'm a mutant. All mutants fly. Therefore, I can fly.
+{c255}I'm new! I was only told to watch out for the Vipers. Nobody ever said anything about other visitors.
+{c255}It's just that... over, never mind. You can come in.
+{c16711680}Well, let me talk with your leader. If he doesn't like me, he can have you throw me out. How's that sound?
+{c255}Wow! Can I see?
+{c16711680}Not right now. Are you going to let me in, or do I, uh, need to fly over you?
+{c255}You're just making fun of me 'cause you think I'm still a kid.
+{c16711680}Sorry. Now, are you going to let in or what?
+{c255}Yeah, sure. You have to come back and show me how you can fly, okay?
+{c255}I guess that'll be okay. You can come in.I overheard one of the Hangdog girls talking about wanting to be a dog trainer.

@@ -1,0 +1,48 @@
+{c255}Hello. I'm Fast-Hands, one of the Blackfoot hunters.
+{c255}Hello again.
+{c255}Packleader ! I'm Fast-Hands, one of the Blackfoot hunters.
+{c255}Hello again, packleader!
+{c13209}What wrong with you leg?
+{c16711680}What's wrong with your leg?
+{c13209}Me know about you and Daughter.
+{c16711680}I know what's going on with you and the Daughter of Hecate.
+{c13209}Let me fix leg! Me good doctor!
+{c16711680}Let me fix your leg for you. I'm good at tending breaks.
+{c16711680}Goodbye.
+{c255}I broke it in a fall.
+{c255}I was climbing while on a hunt, and I fell and broke it.
+{c13209}Why no fix leg? Leg looks bad.
+{c16711680}Why hasn't your tribe's healer fixed it yet? It looks pretty bad.
+{c255}The Daughter won't fix it. She says I don't respect the goddess. I'm afraid I won't be able to walk when the bone heals.
+{c255}The Daughter of Hecate won't help me because she says I haven't shown proper respect for Hecate and the spirits. I'm really afraid that the bone's not going to heal right and I won't be able to walk.
+{c13209}Me go talk to Daughter for you.
+{c16711680}I'm going to talk to the Daughter and see if I can clear this up.
+{c255}Normally I'd say no to an idiot who wanted to fix a broken leg, but I'm desperate. Go ahead, you fix.
+{c255}Uh ... okay, packleader, if you think you can help ... go ahead, you fix.
+{c255}If you can help, go ahead.
+{c13209}No move. Will hurt. SHOULD PLAY USE ANIMATIONS HERE
+{c16711680}Hold still. This will hurt.... SHOULD PLAY USE ANIMATIONS HERE
+{c13209}Me not ready. Me come back later.
+{c16711680}I'm not ready to fix your leg yet. I'll come back later.
+{c255}Arrrgh, that really hurt! But the pain does seem to be going away. Thanks, I hope you fixed it.
+{c255}My leg is healed! I found these plants for you. I think the Daughter uses them for healing. Thank you for your help.
+{c255}Hello! I wanted to give you these plants for your help with my broken leg. It is fully healed! I don't know what the plants do, but I think the Daughter uses them for healing.
+{c13209}Xander root and broc flower! Thanks! Welcome! Goodbye!
+{c16711680}Xander root and broc flower, yes, I can use these. Thanks, Fast-Hands. I'm glad I could help. Goodbye.
+{c255}And what did she say?
+{c13209}She told me you and she do sex. Then you stop sex with her. She upset.
+{c16711680}She told me about your affair. This isn't about offending the goddess, this is about you being an asshole and her feelings are hurt. 
+{c13209}Me play trick on her, she promise to help you in the morning.
+{c16711680}Let's just say that I found a way to convince her to help you. She'll be here in the morning.
+{c255}What? I knew it! That bitch!
+{c13209}She say she fix leg if you say sorry.
+{c16711680}She said she'd fix your leg if you apologized.
+{c255}Whatever works to get my leg healed is fine with me. Thanks.
+{c255}I won't apologize to her! She is supposed to take care of us, not let us turn into cripples!
+{c13209}You say you sorry or me hit you in face.
+{c16711680}You apologize to her or I'll beat the shit out of you, asshole. Just apologize to Hecate in front of everyone, the daughter will accept that as an apology to her.
+{c13209}You no be stupid. She want to help. You say sorry, everything okay. No sorry, you never walk.
+{c16711680}Don't be stupid. She's willing to help you. Just apologize and you'll be able to hunt when your leg heals right. If you don't, you probably won't walk again.
+{c255}You wouldn't hit me! I can't fight back like this! You ... fine, I'll apologize in the morning. Now go away.
+{c255}Wha ... but packleader, you can't ... uh ... fine, I'll apologize in the morning. Now go away.
+{c255}You're right. I'll apologize to her tomorrow. Now, how can I say this without losing face in front of the rest of the tribe....

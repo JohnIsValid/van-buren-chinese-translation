@@ -1,0 +1,44 @@
+{c255}What do you want? I'm busy!
+{c13209}Me . Who you?
+{c16711680}I'm . Who are you?
+{c16711680}Goodbye.
+{c255}I'm Scars For Hands, in charge of our smelting. Now what do you want?
+{c255}What do you want?
+{c13209}Me need you turn off melter. Me make it work better.
+{c13209}Me need you turn off melter! Me need to fix!
+{c13209}Me fix melter. You turn it on again.
+{c13209}Me fix melter more. You turn off again.
+{c16711680}I'd like you to shut down the smelter for a couple of days. I think I can make it burn hotter and with less fuel.
+{c16711680}I need you to shut down the smelter so I can get that work done.
+{c16711680}I've made some improvements to the smelter. Start it up any time you're ready.
+{c16711680}I need you to shut down the smelter again, there are a few more improvements I'd like to make.
+{c13209}This cave has bad air. Makes me cough.
+{c16711680}You know, the air is pretty bad in here.
+{c13209}Me put in air pump. Air better now.
+{c16711680}I installed an air pump to make it easier to breathe in here.
+{c255}What? Hell, no! That thing is a bitch to get burning again! And you sound like an idiot, you'll probably just kill yourself.
+{c255}What? Hell, no! That thing is a bitch to get burning again!
+{c255}Like how I shut it down before, asshole? And you didn't do a damn thing on it for two days? Scram, you're wasting my time.
+{c255}What? Damn it ... well, you did get it working better than before. I'll do it. Maybe I can find myself a pretty boy in town while I'm waiting....
+{c13209}Me fix for two days. Melter work better for you. You take time off, you like.
+{c13209}Me sorry. Me forget. Me try again? Me fix for two days, make it better.
+{c13209}Hey! You are big jerk. Me try to fix this for you! You want me to fix or not?
+{c16711680}Just let me work on it for a couple of days, it'll make your job easier in the long run. And I'm sure you could use a break.
+{c16711680}Look, I'm sorry about that, I screwed up. Give me another chance. It'll be done in a couple of days.
+{c16711680}Hey, asshole, I'm trying to help you out, here. Now are you going to shut it down, or not?
+{c13209}Me talk about other thing.
+{c16711680}Let's talk about something else.
+{c16711680}Great, thanks.
+{c16711680}Goodbye
+{c255}All right, I'll start it up. Why don't you get out of here, this'll take a while.
+{c255}All right, but if you break our smelter, I'll beat the crap out of you, and so will all of my workers.
+{c255}All right, asshole, you get one more shot at this. Don't screw it up.
+{c16711680}Thanks. Goodbye.
+{c255}Forget it. Scram! Get out of here, you're bothering me.
+{c255}Nah, I don't think so. I've got work to do. Ask me again some other time and I might change my mind. Now, scram!
+{c255}You little shit! Scram! Get out of my sight! You can come back here when you can talk to me with respect!
+{c255}Really? I hadn't noticed that I cough all day and my workers are always getting sick.
+{c13209}Maybe me make air pump. Put at front of cave, pump give good air.
+{c16711680}I think if I build an air pump, I can install it at the front of the cave, and it'll pump good air into here.
+{c255}Then get to it, 'cause I'm damn sick of coughing up black snot at the end of the day.
+{c255}Huh! The air does seem to be better. Well, I gotta get back to work, so scram!

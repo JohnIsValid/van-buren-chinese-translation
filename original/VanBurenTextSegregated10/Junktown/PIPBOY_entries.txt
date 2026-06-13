@@ -1,0 +1,26 @@
+JUNKTOWN:
+
+APPROACH
+
+Corporal Armstrong told me that we need to reach the entrance to the vault. It's on the other side of a ruined town, and he believes it may be overrun with communists.
+
+LOOT THE BRICK BUILDING
+
+Corporal Armstrong told me that I should search a red brick building in the ruined town. He thinks it might have supplies that will help us reach the vault.
+
+I looted a shelf in the red brick building and found several supplies, including a motorcycle helmet, first aid kit, a gun, and ammunition.
+
+We finally reached the vault. The power cells in Corporal Armstrong's armor were running low, so he said goodbye and headed back to the city.
+
+TURN LIFE SUPPORT ON, FIX THE GENERATOR AND THE FLOATING EYE
+
+Frank, the Underseer of the vault, told me that the life support systems were down. He explained that the generator didn't have enough power, but that the generator was behind a locked door. Once that's fixed, the central computer can activate the life support program.
+
+Frank complained that the generator that runs the life support system is running at low power, but that it's locked behind a door. Apparently, if I take some tools from the storage room, I can unlock the door and repair it myself.
+
+After complaining about numerous other things, Frank told me that the vault's resident floating eye bot was damaged and lying in the Overseer's room. The eye bot supposedly is capable of repairing the generator, though I would have to unlock the door myself.
+
+I managed to turn the life support on after the generator got fixed. It really wasn't that hard...The generator is now up and running. No more black smoke and possibly no more complaints from Frank.
+
+The eye bot was pretty badly damaged when I found it, but after repairing its motivator, it seemed just fine.
+

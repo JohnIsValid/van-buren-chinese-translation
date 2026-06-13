@@ -1,0 +1,180 @@
+
+JERICHO:
+
+THIEF (ANSON)
+
+Find out who's been stealing from Anson.
+
+Anson said that someone's been stealing from his bar late at night. He suggested that I could either wait in ambush for the thief, or search other people's belongings for Anson's stolen merchandise.
+
+I told Anson that Marianne was the one who was stealing from him, and he beat her up quite badly.
+
+I told Anson that Doc Lane was the person who was stealing from him, and Anson reported Lane to the sheriff. Lane now swings from the gallows at the center of town.
+
+I told Anson that a mysterious stranger with a beard had been stealing from him. My lie fooled him, and he considered the matter closed.
+
+I told Anson that a mysterious stranger with a beard had been stealing from him, but he didn't believe my story and tossed me out of his bar.
+
+Anson say somebody steal from him at night. He say me wait and hide, or maybe find his stuff in other people's stuff.
+
+Me tell Anson that Marianne steal from him. He smack her up good.
+
+Me tell Anson that Lane steal from him. Now he swing from rope. Err, Lane swing, not Anson.
+
+Me tell Anson that bad guy with beard steal from him. He believe me.
+
+Me tell Anson that bad guy with beard steal from him. He not believe me, and say me go away from bar forever.
+
+
+Marianne:
+
+I promised not to turn Marianne in for stealing from Anson's bar.
+
+When I told Marianne I was going to turn her in, she ran to her room, crying.
+
+I blackmailed Marianne into giving all her money to me in exchange for not turning her in.
+
+Marianne, one of Anson's prostitutes, admitted to stealing from him after I showed her the drugs I found in her room. She claims she was only trying to raise money quicker so she could buy her freedom from Anson.
+
+Me not tell on Marianne.
+
+Marianne gimme money so me not tell on her.
+
+Me gonna tell on Marianne.
+
+Me show Marianne drugs me find in her room. She say she steal to pay off debt faster.
+
+TRACK DOWN IVAN
+
+Track down Ivan, the escaped water plant worker.
+
+O'Connor:
+
+Sheriff O'Connor has asked me to track down a convict named Ivan who escaped from his job at the water plant. He suggested that I speak to Caulwell at the plant for further details.
+
+Sheriff say me supposed to find guy who run away from plant. Guy named Ivan. Sheriff say me talk to Caulwell.
+
+Caulwell:
+
+Caulwell said that Ivan might have stowed away on one of the water caravans. He suggested that I look for him at any of the main caravan destinations: Hoover Dam, Fort Abandon, or Caulwell.
+
+He say look for guy in Hoover Dam, or Fort Abandon, or Denver.
+
+Upon finding:
+
+I convinced Ivan to come peacefully with me back to Jericho by promising to speak to the sheriff about assigning Ivan a healthier job.
+
+Me tell Ivan me talk to sheriff so Ivan get good job. Ivan come without fighting to Jericho now.
+
+I let Ivan go free and said I would tell the sheriff that Ivan was already dead when I found him.
+
+Me let Ivan go. Me tell sheriff that Ivan dead.
+
+Ivan refused to come back to Jericho peacefully. When I tried to force the issue, he attacked me and I had to kill him.
+
+Ivan not want to come back to Jericho. Me try to make him go, and he attack. Me kill him.
+
+Sheriff's response:
+
+I told Sheriff O'Connor that Ivan was dead, and he refused to pay me.
+
+Me tell sheriff that Ivan dead. Sheriff not pay me money.
+
+I brought Ivan back to Jericho, and Sheriff O'Connor had Ivan hung for running away from his sentence.
+
+Me bring Ivan back to Jericho. Sheriff hang him from rope and now Ivan dead.
+
+I was able to convince Sheriff O'Connor not to hang Ivan. Instead, O'Connor assigned Ivan to a healthier job, but added six months to his sentence as punishment for running away.
+
+INSPECT WATER PLANT
+
+Inspect and repair the water plant's equipment.
+
+Caulwell told me to inspect and repair the water plant's pipework, storage vat, and filling station.
+
+Build an automated pump for the water plant.
+
+Build a generator for the water plant.
+
+EXTERMINATE ANIMALS
+
+Exterminate the rats, roaches, and wasps in Jericho.
+
+I've agreed to kill the critters which have become a nuisance to Jericho. The sheriff wants me to wipe out the wasps at Union Station, the cockroaches in the northwest part of town, and the giant rats in the old sewers.
+
+Me kill bugs and stuff for sheriff. Wasps in choo-choo station, roaches in northwest town, rats in stinky sewers.
+
+STOP THE MORMONS
+
+Stop Jeremiah and the Hands of God from attacking Jericho's caravans.
+
+A group of Mormons calling themselves the Hands of God are attacking Jericho's water caravans. Sheriff O'Connor wants me to kill their leader, a man named Jeremiah. O'Connor thinks I can pull this off without harming any of the women and children in the Mormon camp.
+
+Marmets doing bad things to caravans. Sheriff say me kill Jeremiah, leader of Marmets. He say not kill kids and women in camp.
+
+I killed Jeremiah and ended the Mormon threat to Jericho.
+
+Me killed Marmet leader Jeremiah.
+
+I convinced Jeremiah that living in Jericho alongside the "sinners" was a great opportunity for the Mormons to do some preaching and converting. Now all I need to do is to tell Sheriff O'Connor about Jeremiah's truce offer.
+
+I told Sheriff O'Connor about Jeremiah's truce offer, and he grudgingly accepted it.
+
+I lied to Sheriff O'Connor and said that the Mormons were going to attack Jericho, and he believed me. He and a group of his men are coming with me to wipe out the Mormons.
+
+Me say Marmets come to kill everybody, and stupid sheriff believe me. Now we go kill all the Marmets.
+
+I tried to trick Sheriff O'Connor into attacking the Mormons, but he saw through my lies and became rather angry with me.
+
+Me try to trick sheriff so he attack Marmets, but me not good enough liar. Now sheriff mad at me.
+
+I tried to bring about a peaceful resolution between Jericho and the Mormons, but Jeremiah wasn't convinced by my proposed solution.
+
+Me try to make peace between Jericho and Marmets, but Jeremiah not listen to me.
+
+
+GARUN, THE MORMON
+
+Garun must have acquired a taste for liquor at some point because he asked if I could bring him some booze the next time I come around.
+
+I brought Garun some booze. He promised not to drink it all at once.
+
+Garun wants booze!
+
+I brought Garun booze.
+
+Garun is always trying to catch up on fixing and cleaning the tribe's weapons. He could really use some help.
+
+I took some time to help out Garun with his work. Now he's caught up and glad to have a little less worry in his life.
+
+Garun fixes stuff. He always busy. He needs help fixing.
+
+I help Garun fix! Me good helper! Garun thank me.
+
+Garun's work would be a lot easier if he had some decent tools. He said that if I brought him a couple of better tools he would make it worth my time.
+
+I gave Garun two multitools, which is exactly what he needed to make his work go more smoothly.
+
+Garun needs good tools to do his job.I brought Garun two multool ... mullitool ... two tools so he can work better.
+
+I taught Garun how to fix broken gunpowder weapons. He says that if I bring him broken guns, he'll fix them for me at no charge. That'll save me the time and effort of doing it myself.
+
+I lent Garun a book on mechanics so he could learn how to fix broken guns. He says that if I bring him broken guns, he'll fix them for me at no charge.
+
+Me lend Garun book so he can learn how to fix guns. He say I bring him broken guns, he fix for me, no charge.
+
+I taught Garun how to make zip guns and pipe rifles. He says if I bring him the parts, he'll make guns from them, for free.
+
+Me lend Garun book so he can learn to make guns. He say me bring him parts, he make zip gun or pipe rifle for me, no charge.
+
+I lent Garun a book on mechanics so he could learn how to make simple guns. He says if I bring him the parts, he'll make guns from them, for free.
+
+
+
+
+
+
+
+
+
+

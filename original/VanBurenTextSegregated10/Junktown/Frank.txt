@@ -1,0 +1,17 @@
+{c255}Are you the Overseer?!
+{c16711680}No, I'm . Who are you?
+{c255}I'm Frank. Until the Overseer arrives, I'm supposed to be running things here. I'm off to an awful bad start!
+{c16711680}Why? What's wrong?
+{c255}We have a whole bunch of problems! Something's wrong with the generator, and I can't fix it because I'm locked out! I went to go get the floating eye bot to fix it, but something's wrong with him, too!
+{c255}Until the generator is fixed, that darn computer won't let us activate the life support systems. It's getting too gosh darn hot in here!
+{c16711680}Where's the generator room?
+{c16711680}Where's the computer room?
+{c16711680}How do you turn on the life support?
+{c16711680}Goodbye.
+{c255}Well, the generator room as at the end of the hall to your left. But that won't do you any good unless you find the security kit in the storage room behind me. You'll need it to unlock the door.
+{c255}The computer room is down the hall and to your right. The computer won't work until the generator's fixed, though! If you can get the generator room door open, you can fix it with a tool kit from the storage room. Or, you could fix the eye bot and get him to repair the generator.
+{c255}Once the generator's running, just use the computer to turn on the life support. Then all we need is to get the eye bot repaired so he can patrol the vault. You know, in case any Commies try to break in!
+{c255}Have you fixed the life support yet?! It's really getting hot in here. You need to fix the generator and get the computer to activate life support.
+{c255}Thanks for getting the life support up and running. I feel better already!
+{c16711680}No problem! Goodbye.
+{c16711680}Yeah, okay. Bye.

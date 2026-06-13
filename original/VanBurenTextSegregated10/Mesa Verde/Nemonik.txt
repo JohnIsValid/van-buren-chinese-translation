@@ -1,0 +1,60 @@
+{c16711680}Not good enough. Goodbye. 
+{c255}Excellent. Please, repair the computer quickly. We cannot afford to lose any more schematics.
+{c255}Be careful, outsider. They are merciless warriors.
+{c255}Physics, chemistry, mathematics. Our ancestors were great scientists, you know. They came to Mesa Verde for shelter after their old home, a great place of science, was destroyed.
+{c16711680}Mesa Verde doesn't seem all that... advanced to me. 
+{c16711680}This place not look all sciencey and stuff.
+{c16711680}Where was this place of science?
+{c16711680}Where they come from?
+{c255}We prefer the simple life here. It is the preservation of the knowledge itself that is important to us. Our ancestors taught that it was reckless {i}use{} of that knowledge which destroyed the world.
+{c16711680}Where did your ancestors come from?
+{c16711680}Where ancestors come from?
+{c16711680}Do you use your knowledge for anything?
+{c16711680}Um, what stuff you do if you so smart?
+{c255}Far to the south. It is dangerous there, however. Invisible fire burns the flesh from a man's bones. Our ancestors fled here for shelter, and to preserve their immense amount of knowledge.
+{c16711680}Mesa Verde doesn't look very advanced.
+{c255}Mathematics is the First Science. All children are taught it from the moment they begin to speak. This very intimate knowledge of mathematics is why our Ritual works. Most of the time, anyway.
+{c16711680}All the Ciphers working together can act like a computer?
+{c255}Electronics has long been a specialty of the Ciphers. Few in the wasteland understand it as much as we do, which is quite a surprise to those who think we are merely primitive tribals.
+{c16711680}Do you have any electronics for sale?
+{c16711680}Me buy things.
+{c255}I am merely a teacher. Speak to Trig, our resident artisan.
+{c16711680}The Counter? Who's that?
+{c16711680}Me counter, too. One, two... uh, five. See?
+{c16711680}Uh-huh. What job you do here?
+{c255}As I said, I am the Nemonik. A foreign word to you, perhaps? It means... "memory keeper". In other times, I lead the Ritual.
+{c255}I am a teacher. Well, I am more than that, but I am afraid that you would probably not understand.
+{c16711680}You mentioned the Counter. Who's that?
+{c16711680}You say somebody counting me? Who?
+{c16711680}What's the Ritual?
+{c16711680}What do you teach?
+{c16711680}What you teach?
+{c255}Our Counter is Azkee. It is his responsibility to ensure that Mesa Verde can survive, and thus it is his responsibility to factor in all variables which can affect the village.
+{c255}No, no. Our leader is called the Counter. He makes sure the village runs smoothly, a task I fear will be complicated by your presence.
+{c16711680}I see. So, what do you do here?
+{c255}It is a special ceremony for times when we a presented with a problem too great for one mind alone to solve. By acting as one, we Ciphers can solve any mathematical dilemma. 
+{c16711680}How is that possible?
+{c16711680}You're saying that all the Ciphers together can act like a computer?
+{c16711680}I have some raw data here from a supercomputer named Zax. Could you use the Ritual to process it?
+{c255}Yes. The Ritual became necessary after the computer of our ancestors failed. Unfortunately, the Ritual is not a complete replacement for the computer.
+{c16711680}What do you mean?
+{c255}You see the schematics on the walls around you? Our ancestors carved them on the walls after the computer failed, but time and the weather have not been kind to them. Our Ritual cannot save them.
+{c16711680}Why don't you just repair the computer and store the schematics in there?
+{c255}Our ancestors did not possess the knowledge to do those repairs, and, unfortunately, neither do we.
+{c16711680}Where's the computer now? I might be able to fix it.
+{c16711680}I could fix the computer, for a price.
+{c255}In the storage cave, at the north end of the village. I fear that it may have been scavenged for spare parts, though, making its repair even more difficult.
+{c16711680}All right, I'll go have a look at it.
+{c16711680}I didn't say I was going to do it for {i}free{}. I expect payment for my services.
+{c255}Not at this time. The Ritual requires all Ciphers to fall into a meditative trance, and it is too risky to do this while the Vipers continue to harass us.
+{c255}I shall gladly call together a Ritual for you. Do you wish this done now?
+{c16711680}Yes, let's do it.
+{c16711680}All right, I'll go deal with the Vipers first.
+{c16711680}Who are the Vipers, and what do they want?
+{c255}Storage is all we need it for. Thank you, outsider.
+{c16711680}And my payment?
+{c16711680}Goodbye. 
+{c255}Servants of a madwoman who claims she controls the fertility of all the tribes. We refused to allow one of her Daughters to live her, and she sends her Vipers as punishment.
+{c16711680}All right. I'll go take care of them.
+{c255}Of course. Here is the medicine as I promised.
+{c255}Of course. Mesa Verde is by no means a rich village, but I can give you medicines from my personal supply if you restore the computer for us. Will this be sufficient compensation?

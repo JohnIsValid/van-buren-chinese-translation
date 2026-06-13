@@ -1,0 +1,851 @@
+MESA VERDE:
+
+BRING A GECK
+
+Bring a GECK to Isaac in exchange for his power armor.
+
+Isaac wants me to bring him a GECK to study. In exchange, he'll give me his old power armor. 
+
+I wasn't able to get a GECK, but DIANA gave me a holodisk with a lot information about GECKs. Isaac might accept this instead of an actual GECK.
+
+Isaac said he didn't really expect me to find a GECK, and he accepted the GECK holodisk instead. As we agreed, he gave me his power armor.
+
+TRIG'S DEATH CANNON
+
+Find out what's wrong with Trig's death cannon.
+
+Trig has built some sort of laser death cannon to use on the Vipers, but it doesn't work.
+
+I inspected Trig's death cannon, and found out that the capacitors she used are defective. This is what's preventing the cannon from firing.
+
+Trig said I might be able to find another set of capacitors at Fort Abandon.I helped Trig replace the capacitors on her death cannon, and we fired it at the Vipers. 
+
+The results were extremely impressive. Unfortunately, Trig's cannon was completely fried in the process.
+
+Tried to tell Trig why gun thingie broken. She not understand. Maybe if me find parts and show her, she understand better.
+
+Gun thingie fixed. We shoot snake guys and they scream and turn black. Fun!
+
+RADIAN'S ILLNESS
+
+Cure Radian's illness.
+
+Radian says he's sick, but he doesn't know what's wrong with him.
+
+I used my medical skills to diagnose Radian, and it turns out that he has High Desert Fever.
+
+I could treat Radian's illness, but I need a doctor's bag first.
+
+I cured Radian's illness.Instead of curing Radian, I gave him some extremely addictive painkillers instead. He'll feel cured, but only for a few hours.
+
+WIND TURBINE SABOTAGE
+
+Sabotage Mesa Verde's wind turbine.
+
+Drake, the leader of the Viper band blockading Mesa Verde, mentioned that I could help them out by sabotaging the village's wind turbine. 
+
+Without the turbine, the village can't get any more water.
+
+I've agreed to sabotage Mesa Verde's wind turbine for the Vipers. Drake warned me to leave the Ciphers alive for the Vipers.
+
+I was able to sabotage Mesa Verde's wind turbine without being noticed.
+
+While I was able to sabotage Mesa Verde's wind turbine, my activities were noticed and I had to defend myself from the enraged Ciphers.
+
+You aided the Vipers by sabotaging the Ciphers' wind turbine.
+
+I used Radian's painkiller addiction against him and forced him to sabotage the wind turbine for me.
+
+JERICHO:
+
+THIEF (ANSON)
+
+Find out who's been stealing from Anson.
+
+Anson said that someone's been stealing from his bar late at night. He suggested that I could either wait in ambush for the thief, or search other people's belongings for Anson's stolen merchandise.
+
+I told Anson that Marianne was the one who was stealing from him, and he beat her up quite badly.
+
+I told Anson that Doc Lane was the person who was stealing from him, and Anson reported Lane to the sheriff. Lane now swings from the gallows at the center of town.
+
+I told Anson that a mysterious stranger with a beard had been stealing from him. My lie fooled him, and he considered the matter closed.
+
+I told Anson that a mysterious stranger with a beard had been stealing from him, but he didn't believe my story and tossed me out of his bar.
+
+Anson say somebody steal from him at night. He say me wait and hide, or maybe find his stuff in other people's stuff.
+
+Me tell Anson that Marianne steal from him. He smack her up good.
+
+Me tell Anson that Lane steal from him. Now he swing from rope. Err, Lane swing, not Anson.
+
+Me tell Anson that bad guy with beard steal from him. He believe me.
+
+Me tell Anson that bad guy with beard steal from him. He not believe me, and say me go away from bar forever.
+
+
+Marianne:
+
+I promised not to turn Marianne in for stealing from Anson's bar.
+
+When I told Marianne I was going to turn her in, she ran to her room, crying.
+
+I blackmailed Marianne into giving all her money to me in exchange for not turning her in.
+
+Marianne, one of Anson's prostitutes, admitted to stealing from him after I showed her the drugs I found in her room. She claims she was only trying to raise money quicker so she could buy her freedom from Anson.
+
+Me not tell on Marianne.
+
+Marianne gimme money so me not tell on her.
+
+Me gonna tell on Marianne.
+
+Me show Marianne drugs me find in her room. She say she steal to pay off debt faster.
+
+TRACK DOWN IVAN
+
+Track down Ivan, the escaped water plant worker.
+
+O'Connor:
+
+Sheriff O'Connor has asked me to track down a convict named Ivan who escaped from his job at the water plant. He suggested that I speak to Caulwell at the plant for further details.
+
+Sheriff say me supposed to find guy who run away from plant. Guy named Ivan. Sheriff say me talk to Caulwell.
+
+Caulwell:
+
+Caulwell said that Ivan might have stowed away on one of the water caravans. He suggested that I look for him at any of the main caravan destinations: Hoover Dam, Fort Abandon, or Caulwell.
+
+He say look for guy in Hoover Dam, or Fort Abandon, or Denver.
+
+Upon finding:
+
+I convinced Ivan to come peacefully with me back to Jericho by promising to speak to the sheriff about assigning Ivan a healthier job.
+
+Me tell Ivan me talk to sheriff so Ivan get good job. Ivan come without fighting to Jericho now.
+
+I let Ivan go free and said I would tell the sheriff that Ivan was already dead when I found him.
+
+Me let Ivan go. Me tell sheriff that Ivan dead.
+
+Ivan refused to come back to Jericho peacefully. When I tried to force the issue, he attacked me and I had to kill him.
+
+Ivan not want to come back to Jericho. Me try to make him go, and he attack. Me kill him.
+
+Sheriff's response:
+
+I told Sheriff O'Connor that Ivan was dead, and he refused to pay me.
+
+Me tell sheriff that Ivan dead. Sheriff not pay me money.
+
+I brought Ivan back to Jericho, and Sheriff O'Connor had Ivan hung for running away from his sentence.
+
+Me bring Ivan back to Jericho. Sheriff hang him from rope and now Ivan dead.
+
+I was able to convince Sheriff O'Connor not to hang Ivan. Instead, O'Connor assigned Ivan to a healthier job, but added six months to his sentence as punishment for running away.
+
+INSPECT WATER PLANT
+
+Inspect and repair the water plant's equipment.
+
+Caulwell told me to inspect and repair the water plant's pipework, storage vat, and filling station.
+
+Build an automated pump for the water plant.
+
+Build a generator for the water plant.
+
+EXTERMINATE ANIMALS
+
+Exterminate the rats, roaches, and wasps in Jericho.
+
+I've agreed to kill the critters which have become a nuisance to Jericho. The sheriff wants me to wipe out the wasps at Union Station, the cockroaches in the northwest part of town, and the giant rats in the old sewers.
+
+Me kill bugs and stuff for sheriff. Wasps in choo-choo station, roaches in northwest town, rats in stinky sewers.
+
+STOP THE MORMONS
+
+Stop Jeremiah and the Hands of God from attacking Jericho's caravans.
+
+A group of Mormons calling themselves the Hands of God are attacking Jericho's water caravans. Sheriff O'Connor wants me to kill their leader, a man named Jeremiah. O'Connor thinks I can pull this off without harming any of the women and children in the Mormon camp.
+
+Marmets doing bad things to caravans. Sheriff say me kill Jeremiah, leader of Marmets. He say not kill kids and women in camp.
+
+I killed Jeremiah and ended the Mormon threat to Jericho.
+
+Me killed Marmet leader Jeremiah.
+
+I convinced Jeremiah that living in Jericho alongside the "sinners" was a great opportunity for the Mormons to do some preaching and converting. Now all I need to do is to tell Sheriff O'Connor about Jeremiah's truce offer.
+
+I told Sheriff O'Connor about Jeremiah's truce offer, and he grudgingly accepted it.
+
+I lied to Sheriff O'Connor and said that the Mormons were going to attack Jericho, and he believed me. He and a group of his men are coming with me to wipe out the Mormons.
+
+Me say Marmets come to kill everybody, and stupid sheriff believe me. Now we go kill all the Marmets.
+
+I tried to trick Sheriff O'Connor into attacking the Mormons, but he saw through my lies and became rather angry with me.
+
+Me try to trick sheriff so he attack Marmets, but me not good enough liar. Now sheriff mad at me.
+
+I tried to bring about a peaceful resolution between Jericho and the Mormons, but Jeremiah wasn't convinced by my proposed solution.
+
+Me try to make peace between Jericho and Marmets, but Jeremiah not listen to me.
+
+
+GARUN, THE MORMON
+
+Garun must have acquired a taste for liquor at some point because he asked if I could bring him some booze the next time I come around.
+
+I brought Garun some booze. He promised not to drink it all at once.
+
+Garun wants booze!
+
+I brought Garun booze.
+
+Garun is always trying to catch up on fixing and cleaning the tribe's weapons. He could really use some help.
+
+I took some time to help out Garun with his work. Now he's caught up and glad to have a little less worry in his life.
+
+Garun fixes stuff. He always busy. He needs help fixing.
+
+I help Garun fix! Me good helper! Garun thank me.
+
+Garun's work would be a lot easier if he had some decent tools. He said that if I brought him a couple of better tools he would make it worth my time.
+
+I gave Garun two multitools, which is exactly what he needed to make his work go more smoothly.
+
+Garun needs good tools to do his job.I brought Garun two multool ... mullitool ... two tools so he can work better.
+
+I taught Garun how to fix broken gunpowder weapons. He says that if I bring him broken guns, he'll fix them for me at no charge. That'll save me the time and effort of doing it myself.
+
+I lent Garun a book on mechanics so he could learn how to fix broken guns. He says that if I bring him broken guns, he'll fix them for me at no charge.
+
+Me lend Garun book so he can learn how to fix guns. He say I bring him broken guns, he fix for me, no charge.
+
+I taught Garun how to make zip guns and pipe rifles. He says if I bring him the parts, he'll make guns from them, for free.
+
+Me lend Garun book so he can learn to make guns. He say me bring him parts, he make zip gun or pipe rifle for me, no charge.
+
+I lent Garun a book on mechanics so he could learn how to make simple guns. He says if I bring him the parts, he'll make guns from them, for free.
+
+
+
+BLACKFOOT TRIBE AND HANGDOG VILLAGE:
+
+LIBERATE BLACKFOOTS
+
+Free the Blackfoots from the Daughters of Hecate
+
+Teacher says the Daughters of Hecate are powerful and mysterious. He distrusts them because of their power, and the one they have now doesn't even like dogs.
+
+Teacher says the Daughters of Hecate are mysterious. He mistrusts them and doesn't like the power they have over the Hangdogs. He's happy they got rid of the dog-hating Daughter.
+
+Grins A Lot says the Daughters know their medicine, but they have too much control over the tribe. He also says the Daughter they have now is a real bitch, and doesn't like dogs.
+
+Grins A Lot says the Daughters know their medicine, but they have too much control over the tribe. 
+
+He's glad the Daughter they had left. She was a real bitch, and didn't like dogs.
+
+HELP CHAGAS' COUP
+
+Help Chagas Take Over the Blackfoot Tribe
+
+Teacher says that Chagas is a decent man. His brother was a good leader. The warriors respect him because of his skills.
+
+Teacher says that Kurisu is a better leader than Chagas.
+
+Teacher told me that Kurisu is a good leader for the Blackfoots and Hangdogs. She was not born one of them but proved her worth and became leader.
+
+Teacher says that Chagas is untested and needs to take time to learn to be a leader.
+
+Grins A Lot told me that Kurisu is a strong leader. She is wise, good in fight, strong, and protective of Blackfoots and Hangdogs.
+
+Grins A Lot told me that Chagas is good with his hands and good with guns. His brother was leader before Kurisu. Chagas is a good man, people respect his skill.
+
+Grins A Lot says that Kurisu is a better leader than Chagas. She knows the tribe well, and solves problems before people get angry. The tribe is stronger because of her.
+
+Grins A Lot says Chagas isn't a better leader than Kurisu. Chagas is strong and respected, but has no experience. If he fails, it would hurt the tribe.
+
+SMELTING FURNACE UPGRADE
+
+Improve the Blackfoot Smelting Furnace
+
+I talked to Scars For Hands, the woman in charge of the smelter, and finally convinced her to let me shut it down for a couple days so I could make improvements on it.
+
+I worked on the smelter and made some improvements.I worked on the smelter and made some major improvements. Me talk to Scars, she say I can stop fires and fix metal-melter.
+
+Me fix metal-melter some. Metal-melter fixed! I took a look at the Blackfoot smelting furnace. I think I could make some improvements on it.
+
+Me looked at the Blackfoot metal-melter. Me can make it work better.
+
+BUILD AN AIR PUMP
+
+Build an Air Pump System for the Furnace Cave
+
+The air in the furnace cave is very smoky. The workers probably have a hard time breathing.
+
+Furnace cave air is smoky. Workers probably breath smoke all the time.
+
+I installed an air pump for the furnace cave.
+
+Me attach air pump for furnace cave.
+
+RECONCILE FAST-HANDS AND DAUGHTER OF HECATE
+
+HecateFast-Hands, one of the Blackfoots, broke his leg in a fall. The local Daughter of Hecate refuses to help him, apparently because he hasn't shown her the proper respect. Now his leg is poorly set and he's worried that when it's healed he'll be unable to walk or climb.
+
+I broke and re-set Fast-Hands' broken leg so it would heal properly. He might have a limb, but he'll be able to walk and even climb when it's fully healed.
+
+Now that his leg is fully healed, Fast-Hands brought be some medicinal plants as a thank-you for helping him.
+
+Fast-Hands broke leg. He is afraid of limping. Daughter won't help, she mad at him.
+
+Me fix Fast-Hands leg. It will be okay.
+
+Fast-Hands leg is better. He gave me medicine plants.
+
+I convinced Fast-Hands that an apology to the Daughter is a good idea.
+
+Fast-Hands apologized to the Daughter and they seem to be over their feud. She has agreed to fix his leg now. 
+
+Me tell Fast-Hands to say he sorry to Daughter.
+
+Fast-hands say he sorry to Daughter. Daughter will fix Fast-Hands leg now.
+
+
+BECOME LEADER
+
+Become Leader of the Hangdogs
+
+Bares His Teeth hates me because he is not the Hangdog leader any more.
+
+Bares His Teeth told me a good leader doesn't leave his pack for months at a time. He replaced me as leader.
+
+I challenged Bares His Teeth for leadership of the Hangdogs, and failed.
+
+Me challenge Bares to be Hangdog leader. Me fail. Poop.
+
+I challenged Bares His Teeth for leadership of the Hangdogs. I won, and now I am their leader.
+
+Me challenge Bares to be Hangdog leader. Me win, me leader now!
+
+BECOME A HANGDOG WARRIOR
+
+Become a Hangdog Warrior
+
+Bares His Teeth told me that to become a Hangdog, I must either tame a wild dog from the hills north of the town, or bring back a living pup from that area.
+
+Bares say for me to become Hangdog me have to bring back wild dog or puppy. Must be alive, too.
+
+I have tamed a wild dog from the hills north of the Blackfoot and Hangdog town.
+
+I have taken a wild puppy from the dog packs in the hills north of the Hangdog town.
+
+Me tame wild dog.Me take puppy from dog house.I proved my worth to Bares His Teeth, and I am now a member of the Hangdogs. My name among them is .
+
+Me prove to Bares and me is Hangdog now. Me Hangdog special name is . Me chose it meself.
+
+Now that I'm a member of the Hangdogs, I'm allowed to learn their secret fighting style.
+
+Me Hangdog now, me can learn Hangdog fight special.
+
+KILL SPORE PLANTS AND WILD ANIMALS
+
+Spore plants grow everywhere, shoot needles, and hurt women and children who work in the gardens.
+
+All the spore plants in the Blackfoot town are dead. The Hangdogs and Blackfoots are being attacked by spore plants.
+
+Coyotes are a problem in the Hangdog town.
+
+Coyotes look like dogs but are small and weak. They are too fast and quick for the Hangdogs to kill them easily.
+
+All the coyotes living the Hangdogs are dead.
+
+Rats are becoming a problem for the Hangdogs and Blackfoots. The rats come in many sizes, some as big as a brahmin. Some have attacked children and dogs. 
+
+They have seen radscorpions near the Hangdog town. Radscorpions have claws and a poisonous tail. A healer can make poison antidote from the tails.
+
+All the radscorpions are dead. 
+
+KILL THE DEVIL DOG
+
+The Hangdogs are haunted by something called the Devil Dog. The Devil Dog is an angry spirit. They can't tame him, and he sometimes attacks people. His eyes glow green. 
+
+The Devil Dog is dead.
+
+Tell the Hangdogs About the Denver Dogs
+
+CURE THE SICK DOGS
+
+Grins A Lot told me that he wouldn't let the dogs suffer. He's planning on killing the sick dogs in the morning.
+
+Grins going to kill dogs in morning so they don't suffer.
+
+CURE THE DEVIL DOG
+
+Cure the Devil Dog 
+
+ is acting strangely. He may be sick. 
+
+ is sick! 
+
+ died from whatever was making him sick. 
+
+ died. Me sad.
+
+I paid Grins A Lot to treat 's symptoms but haven't paid for a full cure.
+
+Me pay Grins to make   better for a while.
+
+I used XXX to treat 's sickness. He's not cured, but he's doing better.
+
+Me give medicine. He feel better, but not fixed yet.
+
+ is cured of his sickness.
+
+ is all better now!
+
+HELP MARIE BECOME AN APPRENTICE
+
+Grins A Lot doesn't agree with the Hangdog custom about girls tending the home, but going against it would mean he'd lose face to the tribe. Since he is no longer the tribe's healer, he feels that he is left with very little face and to lose any more would be humiliating.
+
+Grins no agree with Hangdog girl custom but he afraid he lose face if he go against custom. Since he no healer now, he no have much face left.
+
+My dog defeated Grins A Lot's dog in battle and now I am Marie's guardian. I told her she would work with Teacher to learn the ways of training the dogs. Grins A Lot has saved face by not breaking tradition, and Marie gets to learn about the dogs. Everyone wins.
+
+My dog fought Grins dog and won, so I say Marie learns about dogs now.
+
+I talked to Grins A Lot and got himto agree to let Marie learn the secrets of dog training from Teacher.
+
+I talked to Grins and now Marie can work with dogs like she wants to.
+
+My dog lost to Grins A Lot's dog. Grins A Lot says that Marie cannot be Teacher's apprentice, and his decision is final.
+
+Me dog fought Grins dog and lost. Now Marie no can work with dogs because Grins says no.
+
+
+
+
+GRAND CANYON:
+
+TOUR BOT
+
+I met a tour bot in an abandoned ranger station. The bot has a lost and found compartment on its body, but it wouldn't let me access it because I didn't look like a park ranger.
+
+Me meet bot. It say it have stuff lost and found, but me not get because it say me not look like ranger.
+
+PIERCE'S MEN:
+
+I met a squad of soldiers led by a man named Captain Pierce in the Grand Canyon. He said his employer, one Doctor Presper, has ordered my death because I've somehow become a threat to him.
+
+I ran into Pierce, one of Presper's henchmen, in the Grand Canyon. Apparently, Presper has felt I've become too big a threat and wants me dead.
+
+I convinced Captain Pierce that Presper would eventually turn against him as well, and Pierce let me walk away without a fight.
+
+I fooled Captain Pierce into thinking that Presper and I were on the same side, and that my interference with Presper's plans is just one big mistake. As a result, Pierce let me walk away.
+
+I killed Presper's henchmen Pierce in the Grand Canyon.
+
+IKE'S LANDMINE
+
+Disarm Ike's landmine.
+
+I met a ghoul explorer named Ike in the Grand Canyon. He's trapped at the moment by a landmine underneath his feet. If he moves, he's dead.
+
+I made Ike give me everything in his pack before agreeing to help him with his landmine problem.
+
+I told Ike I'd try to disarm the landmine.
+
+Unfortunately, the landmine trapping Ike went off. Obviously, I survived, but Ike didn't.
+
+I was able to disarm the landmine beneath Ike's feet.
+
+REPAIR AIR TRAM
+
+The tram at the Grand Canyon is lacking several unique parts required for it to work. Santiago told me that one of the other salvager groups in the area my still have them.
+
+Flying box missing parts. San Diego say other guys have parts maybe.
+
+Santiago has generously offered to see if he can get the tram's missing parts back, and I accepted his offer.
+
+San Diego say he get missing parts from flying box back. Me say he go do that.
+
+Using the parts Santiago located for me, I was able to repair the tram and rode it for the first time over the Grand Canyon.
+
+Me fix flying box. Me ride over canyon. Whee.
+
+LIBERATE AIR TRAM
+
+Deal with the thugs who've taken over tram at the Grand Canyon.
+
+A group of thugs from the Crimson Caravan have muscled Santiago and his guys out of the tram operation at the Grand Canyon.All the rats are dead.
+
+Bad men take over flying box. 
+
+I killed the thugs who took over the tram operation at the Grand Canyon.
+
+Me kill bad guys who take over flying box.
+
+I was able to talk the thugs who took over the tram operation into walking away without a fight.
+
+Me tell bad guys to go away from flying box and they go away.
+
+OTHER:
+
+Locate the remnants of the B.O.M.B.-002 satellite.
+
+Santiago told me that he heard stories about a large object which crashed somewhere in the western part of the Grand Canyon.
+
+San Diego say big thing crash in big canyon to west.
+
+TWIN MOTHERS:
+
+ENTRY
+
+Me find village built in side of cliff wall. Chief come. She say name Alaya. She ask if me friendly. Me say yes. She invite me in so we talk more.
+
+I came upon a village built in the side of a cliff wall. The village chief, Alaya, asked if I came as a friend. I answered yes and she invited me in to talk more.
+
+Me find village built in side of cliff wall. Chief come. She say name Alaya. She ask if me friendly. Me say no. She tell me go away until friendly.
+
+I came upon a village built in the side of a cliff wall. The village chief, Alaya, asked if I came as a friend. I answered no and she asked me to leave until I changed my disposition.
+
+Alaya say Twin Mothers tribe have two chiefs. One man. One woman. Both do different things for tribe. If they no agree they work things out.
+
+Alaya says that the Twin Mothers tribe actually has two chiefs, a man and a woman. Each chief has different duties that they perform for the tribe. The woman is the lawmaker and the man the provider.
+
+Alaya say Twin Mothers peaceful. Tribe worship sun, moon, and goddess. Goddess name Diana.
+
+Alaya says that the Twin Mothers are a peaceful tribe. They worship the sun, the moon, and a goddess named Diana.
+
+Alaya say goddess Diana mother of all. She say me talk to shaman if me want know more.
+
+Alaya says that the goddess Diana is the mother of all. I assume that she is referring to some sort of nature goddess. In any case, she recommended that I speak with the tribal shaman if I wanted to know more.
+
+Me ask Alaya why tribe named Twin Mothers. She say everyone have two mothers. One make us baby. Other is world.
+
+I asked Alaya about the Twin Mothers name. She says that the tribe believes that we all have two mothers. The first is our physical mother and the second is the Earth itself. Me ask Alaya about robots in village. She say they servants of goddess. She say they protect tribe from harm.
+
+Eldron say Twin Mothers tribe have two chiefs. One man. One woman. Both do different things for tribe. If they no agree they work things out.
+
+Me ask Eldron about tribe. He say they peaceful and simple. He no say more.
+
+I asked Eldron about the Twin Mothers tribe. He said that they are a peaceful and simple people. He seemed unwilling to say more.
+
+Me ask Eldron why tribe named Twin Mothers. He say everyone have two mothers. One make us baby. Other is world.
+
+I asked Eldron about the Twin Mothers name. He says that the tribe believes that we all have two mothers. The first is our physical mother and the second is the Earth itself. 
+
+REPAIR ROBOTS
+
+I asked Alaya about the security robots throughout the village. She didn't know what I was talking about until I called them metal men. She then told me that they are the servants of the goddess and the protectors of the tribe.
+
+Me ask Alaya why robots no work. She say they stop when goddess stop talking to tribe. She say ask shaman if want to know more.
+
+I asked Alaya why the security robots aren't working. She says that they stopped when their goddess stopped talking to the tribe. I asked her to explain but she said to speak with the tribal shaman if I wanted to know more.
+
+Me ask Eldron about robots in village. He say they protect tribe from harm. He say no mess with them.
+
+I asked Eldron about the security robots throughout the village. He said that they are the protectors of the tribe and not to be trifled with.
+
+Me tell Eldron me know robots no work. He upset. Say me know too much.
+
+I told Eldron that I knew that the security robots no longer functioned. He was upset by the fact and said I was too well informed.
+
+Me tell Eldron me try fixt robots. He say he no ask me to do but he happy if me do.I told Eldron that I would try to repair the security robots. He said that he couldn't ask me to do so, but that he would be grateful if I could.
+
+Me tell Eldron robots work. He happy.
+
+I informed Eldron that the security robots function now. He was very happy about this.
+
+Work:
+
+Me ask Alaya for work. She say me guest and no have to work. She say to pick place to stay while me in town. Me can pick place near town square.
+
+I asked Alaya if she had any work for me. She said that I'm a guest and don't have to work. Instead she asked me to pick out a place to stay while I'm in town. There are residences available by the town square.
+
+PROPOSAL
+
+I spoke with Alaya and asked her why she turned down Eldron's proposal. She said that she will not marry without the blessing of her goddess. Apparently the tribal shaman refuses to give it. Alaya did not ask why.
+
+I informed Alaya that Helea, the shaman, gave her blessing. She is now free to marry Eldron. She was excited about the news and asked me to tell Eldron.
+
+I asked Eldron if there was anything else that I could help him with. He said that he proposed marriage to Alaya but that she refused. He would like me to find out why. I said I would look into the matter.
+
+I asked Eldron if there was anything else that I could help him with. He said that he proposed marriage to Alaya but that she refused. He would like me to find out why. I told him I don't want to get involved.
+
+I told Eldron that Alaya refused his proposal because the shaman, Helea, refused to give the marriage her blessing. He accepted this in stride.
+
+I told Eldron that I would speak with the shaman Helea about blessing his marriage to Alaya.
+
+I told Eldron that I was able to get the shaman Helea to bless his marriage to Alaya. He was very pleased and asked me to tell Alaya.
+
+I told Eldron that Alaya has accepted his proposal of marriage. Needless to say, he was pleased.
+
+
+EXTERMINATE BUGS AND KILL RAIDERS
+
+Me ask Eldron for work. He say me guest and he not supposed to mention raiders and giant bugs.
+
+I asked Eldron if he had any work for me. He said that I was a guest and that it would be rude of him to mention the raiders and giant insects that plague the tribe.
+
+
+
+Eldron say raiders take food from tribe. Big bugs take food too. Not enough food for tribe.
+
+Eldron said that raiders are taking food from the tribe. He also said that giant insects are ravaging their crops. If this continues there will be a food shortage in the village.
+
+Eldron say raiders make camp to east. Big bugs come from south.Eldron said that the raiders have set up a camp to the east of the village. The giant insects come from the south.
+
+Me ask Eldron if there be more me help with. He say no. He say me no smart enough.
+
+Me tell Eldron raiders dead. He no happy they dead but he happy they no more trouble.
+
+Me tell Eldron raiders dead. He no happy they dead but he happy they no more trouble.
+
+Me tell Eldron raiders no take more food. He happy.
+
+I informed Eldron that the raiders will no longer take food from the tribe. He was happy.
+
+Me tell Eldron big bugs dead. He happy.
+
+I informed Eldron that the giant insects are dead. He was happy.
+
+
+HELEA
+
+Me talk to Hellea. She shaman of Twin Mothers. She healer for tribe.
+
+I spoke with Helea, the shaman of the Twin Mothers. She said that she is the healer for the tribe.
+
+Helea say goddess Diana teach her to be shaman. Me think she tell joke but she say no.
+
+Helea told me that the goddess Diana taught her the healing arts. 
+
+I thought she was speaking metaphorically but she claims to have met the goddess personally.
+
+Me ask Helea if me buy healing stuff. She say she no need money. She give healing stuff.
+
+I asked Helea if I could buy healing potions from her. She said that she had no use for money. She did, however, give me some healing ointments.
+
+Me ask Helea why tribe named Twin Mothers. She say everyone have two mothers. One make us baby. Other is world.
+
+I asked Helea about the Twin Mothers name. She says that the tribe believes that we all have two mothers. 
+
+The first is our physical mother and the second is the Earth itself. Me ask Helea about Daughter name Ruth. She say Daughters steal babies. They make tribes weak by giving back sick babies. They make Daughters strong by keeping good babies.
+
+I asked Helea about the Daughter named Ruth. She said that the Daughters are stealing strong babies from the tribes and replacing them with sick ones. They are trying to weaken the tribes while bolstering their own people.
+
+Me ask Helea about goddess. She say nature stuff.I asked Helea about the goddess of the Twin Mothers. She sounds to me like a typical nature or fertility goddess.
+
+Helea upset about goddess. She say goddess no longer speak to her. She say goddess used to come to temple but she not do now. Temple near village square.
+
+Helea is upset about the tribal goddess. She says that the goddess no longer speaks to her when she calls her. I asked her about this and she claims that the goddess would come to the temple when she called. Alaya and Eldron, the chiefs of the tribe, live in the temple. It is near the village square.
+
+I asked Helea why she would not bless Alaya's marriage to Eldron. She said that they share a defect that makes them nearly sterile. She is afraid that, if they were to have children, this defect could be passed on and endanger the tribe.
+
+I tried to convince Helea to bless Alaya's marriage to Eldron. She refused.I tried to convince Helea to bless Alaya's marriage to Eldron. I was successful and she has given her blessing.
+
+
+RUTH
+
+Me meet Daughter of Hecate at Twin Mothers. Her name Ruth.
+
+I meet a Daughter of Hecate at the Twin Mothers. Her name is Ruth.
+
+Ruth say she no longer Daughter. She quite cause she lose faith. She say she saw goddess Diana.
+
+Ruth told me that she is no longer a Daughter. She lost her faith when she saw the goddess Diana.
+
+Ruth say she do evil, but she no tell me what. She say to ask shaman, Helea. She tell her all.
+
+Ruth said that she has done some evil things, but she would not tell me exactly what. She said to ask the shaman, Helea. Apparently she confessed to her.
+
+Me tell Ruth me speak with Helea about her. She answer questions now.I told Ruth that I spoke with Helea about her. She was a lot more open and willing to answer questions.
+
+Me ask Ruth about Hecate. She say Hecate die and go to paradise. She become goddess and come back.
+
+I asked Ruth about Hecate. She said that Hecate died, went to paradise, and then became a goddess. She returned to earth to pass on 'gifts' to her people.Me ask Ruth why Hecate weaken tribes. She say Hecate make her people strong cause they chosen. Hecate not care about other tribes.
+
+I asked Ruth why Hecate is weakening the tribes. She said that Hecate is making her people strong to better their chance of survival. Unfortunately she is doing this at the expense of the other tribes.
+
+Me ask Ruth where me find Hecate. She say Hecate live in city named Ouroboros. She mark on map.
+
+Me ask Ruth where me find Hecate. She say Hecate live in city named Ouroboros. She mark on map.
+
+ZAX-29
+
+Me meet computer machine name Zax-29.
+
+I met an artificial intelligence by the name of Zax-29.
+
+Me ask Zax-29 who boss of Twin Mothers. He say goddess Diana boss.
+
+I asked Zax-29 who was in control of the Twin Mothers area. He said the goddess Diana assumed control.
+
+Me ask Zax-29 who is goddess Diana. He say he no know. He say he no think she goddess though.
+
+I asked Zax-29 who exactly the goddess Diana is. He said he doesn't know, but he has doubts that she's a trued deity.
+
+Me ask Zax-29 where me find Diana. H say she in high security place name Nursery. He no know where Nursery is. It secret for security.
+
+I asked Zax-29 where I could find Diana. He says that she is in a high security installation known as the Nursery. He doesn't know the Nursery's location for security reasons.
+
+Me ask Zax-29 how me find Nursery. He say me may be able to guess from other sources.I asked Zax-29 how I could locate the Nursery. He suggested that it may be possible to extrapolate its location from other sources.
+
+Me ask Zax-29 how he get orders. He say there is satellite dish in Twin Mothers area.
+
+I asked Zax-29 how he gets his orders. He said that there is a satellite dish somewhere in the Twin Mothers area.
+
+Me ask Zax-29 what going on in Twin Mothers area. He say they experiment. He say... stuff.
+
+I asked Zax-29 what is going on in the Twin Mothers area. He said that they are a behavioral experiment that was started before the war. Someone felt that a society that was not dependent upon technology would have a better chance of surviving the war and not reverting to savagery.
+
+Me ask Zax-29 why robots in village no work. He say goddess Diana control them but she no talk now.
+
+I asked Zax-29 why the robots in the village no longer work. He said that they are under the control of the goddess Diana and that communication has been lost with her.
+
+Me ask Zax-29 if he fix robots. He say he could so me tell him to do.I asked Zax-29 if he could activate the security robots. He said that he could so I told him to do so.
+
+Me ask Zax-29 if he fix robots. He say he could if me tell him do so. Me think about it.
+
+I asked Zax-29 if he could activate the security robots. He said that he could if I told him to do so. I'm thinking about it.
+
+
+
+RAIDER CAMP (BURK):
+
+Me talk to Burk at raider camp. 
+
+Me find out he boss.
+
+I spoke with Burk at the raider camp. He says that he is the leader of the raiders.
+
+Me talk to Burk at raider camp. He say it true that he be boss.
+
+I spoke with Burk at the raider camp. He confirmed that he is the leader of the raiders.
+
+Me ask Burk if he take food from natives. He say natives give food so he no have to take. He agree to stop. 
+
+I asked Burk if he was taking food from the natives. He said no, the natives offered him food and he accepted. He agreed to stop, however.
+
+I tried to convince him to change his mind but he refused.
+
+Me ask nice, but he still say no.
+
+Me ask Burk why he here. He no say. 
+
+I asked Burk why he was here. He said it was none of my concern. 
+
+Me ask Burk why he here. He say there may be vault here.
+
+I asked Burk why he was here. He said that there may be a vault here, somewhere in this canyon.
+
+
+Me tell Burk about Trisha and disk. He no happy with Trisha.
+
+I informed Burk about Trisha and the disk she asked me to deliver. He isn't very happy with Trisha right now. He said he will deal with her later.
+
+Me tell Burk that Sharon want Trisha dead.
+
+I informed Burk that Sharon wants Trisha dead. He said he was pretty tired of their bickering and that he would handle the matter.
+
+
+SHARON
+
+Me ask gang member Sharon who boss. She say Burk.
+
+I asked one of the gang members named Sharon who was the boss. She said a man named Burk is in charge.
+
+Me ask Sharon about gang. She say gang name Scorpion's Bite. Gang use bug poison.
+
+I asked Sharon to tell me about her gang. She said they are called Scorpion's Bite because they use scorpion poison on their weapons.
+
+Me ask Sharon about camp site. She say she no nothing. Boss say no wander around. She say natives no come here. They say forbidden.
+
+I asked Sharon about the area where the raiders set up camp. She said she knows nothing about it. They've been told not to wander around. She did mention that the natives say they are forbidden to come here.
+
+Me ask Sharon about raiders take native food. She say go talk to boss.
+
+I asked Sharon about the raiders taking food from the natives. She admitted they are but said to talk with the boss.
+
+Sharon want Trisha dead. Me say me kill for her.Sharon wants Trisha dead. I told her I'd kill her for her.
+
+Sharon want Trisha dead. Me say me no kill her.Sharon wants Trisha dead. I told her I wouldn't kill her.
+
+Sharon say she no trust me to kill Trisha. She say me... moron.
+
+Sharon said she would pay me five hundred caps to kill Trisha and make it look like an accident. I agreed to do it.
+
+Sharon said she would pay me five hundred caps to kill Trisha and make it look like an accident. I said I'd think about it.
+
+I told Sharon that Trisha is dead and I wanted my caps.
+
+She paid up.
+
+TRISHA:
+
+Me ask gang member Trisha who boss. She say Burk.
+
+I asked one of the gang members named Trisha who was the boss. She said a man named Burk is in charge.
+
+Me ask Trisha about gang. She say gang name Scorpion's Bite. Gang use bug poison.
+
+I asked Trisha to tell me about her gang. She said they are called Scorpion's Bite because they use scorpion poison on their weapons.
+
+Me ask Trisha about camp site. She say she no nothing. Boss say no wander around. She say natives no come here. They say forbidden.
+
+I asked Trisha about the area where the raiders set up camp. She said she knows nothing about it. They've been told not to wander around. She did mention that the natives say they are forbidden to come here.
+
+Me ask Trisha about raiders take native food. She say go talk to boss.I asked Trisha about the raiders taking food from the natives. She admitted they are but said to talk with the boss.
+
+Me ask Trisha for work. She ask me take disk to Caesar's Legion agent in Dogtown. Dogtown northeast.
+
+I asked Trisha for work. She asked me to deliver a holodisc to an agent of Caesar's Legion. She says there's one in Dogtown. Dogtown is northeast of here.
+
+Trisha say disk worth thousand caps to Legion. Me can ask for caps when deliver it. She also say me have her if me bring proof me deliver.
+
+Trisha said the holodisc is worth a thousand caps to the Legion. I can ask for that much when I deliver it. She also said that I could have her if I brought back proof that I delivered it.
+
+Me ask what on disk. Trisha say lots of information about natives and area. She sell them out to Caesar's Legion.
+
+I asked Trisha what is on the holodisc. She said its detailed information about the Twin Mothers area. It sounds like she is selling the natives out to Caesar's Legion.
+
+Me told Trisha me deliver disk.I told Trisha that I'd deliver the disk.
+
+Me tell Trisha me think about deliver disk.I told Trisha I'd think about delivering the disk.
+
+Me tell Trisha me deliver disk.I told Trisha I'd deliver the disk.
+
+Me give Trisha proof me deliver disk. Me go to tent with her and make fun!
+
+I gave Trisha proof that I delivered the holodisc. We went to a tent afterwards and had some fun.
+
+Me give Trisha proof me deliver disk. She want go to tent for fun but me tell her she no have to.
+
+I gave Trisha proof that I delivered the holodisc. She offered to take me to a tent for payment, but I told her she didn't have to.
+
+
+JUNKTOWN:
+
+APPROACH
+
+Corporal Armstrong told me that we need to reach the entrance to the vault. It's on the other side of a ruined town, and he believes it may be overrun with communists.
+
+LOOT THE BRICK BUILDING
+
+Corporal Armstrong told me that I should search a red brick building in the ruined town. He thinks it might have supplies that will help us reach the vault.
+
+I looted a shelf in the red brick building and found several supplies, including a motorcycle helmet, first aid kit, a gun, and ammunition.
+
+We finally reached the vault. The power cells in Corporal Armstrong's armor were running low, so he said goodbye and headed back to the city.
+
+TURN LIFE SUPPORT ON, FIX THE GENERATOR AND THE FLOATING EYE
+
+Frank, the Underseer of the vault, told me that the life support systems were down. He explained that the generator didn't have enough power, but that the generator was behind a locked door. Once that's fixed, the central computer can activate the life support program.
+
+Frank complained that the generator that runs the life support system is running at low power, but that it's locked behind a door. Apparently, if I take some tools from the storage room, I can unlock the door and repair it myself.
+
+After complaining about numerous other things, Frank told me that the vault's resident floating eye bot was damaged and lying in the Overseer's room. The eye bot supposedly is capable of repairing the generator, though I would have to unlock the door myself.
+
+I managed to turn the life support on after the generator got fixed. It really wasn't that hard...The generator is now up and running. No more black smoke and possibly no more complaints from Frank.
+
+The eye bot was pretty badly damaged when I found it, but after repairing its motivator, it seemed just fine.

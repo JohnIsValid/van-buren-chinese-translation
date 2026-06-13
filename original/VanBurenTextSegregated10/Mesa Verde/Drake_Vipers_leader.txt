@@ -1,0 +1,68 @@
+{c255}This path is forbidden to travel by order of Hecate, stranger. You may not pass.
+{c16711680}Who are you?
+{c16711680}Who you?
+{c16711680}Sure I can! Watch ? I'll just kill you and then push your corpse out of my way.
+{c16711680}Yaaaaaaaaargh! [Attack him.]
+{c16711680}Goodbye.
+{c255}We meet again. Why have you come before us?
+{c255}Were you successful in disabling the Ciphers' wind turbine?
+{c16711680}Who are you, again?
+{c16711680}Me forget. Who you?
+{c16711680}Not yet. I'm still working on it.
+{c16711680}Nope. Not done yet.
+{c16711680}Yes, I sabotaged the turbine.
+{c16711680}Yup, me broke wind thingie.
+{c16711680}Tell me again about how I can help you.
+{c16711680}How me help you, again?
+{c255}I am Drake, Chosen of Hecate and leader of these Vipers.
+{c16711680}Why are you blocking this trail?
+{c16711680}Why you in me way?
+{c16711680}Who's Hecate?
+{c16711680}Who Hecate?
+{c16711680}Your gang's name is the Vipers?
+{c16711680}Snakes? Me not see snakes.
+{c255}She is our goddess, the one who gives us purpose and power. She commands almost all the tribals of the wasteland.
+{c16711680}I see. So, where does Hecate live?
+{c16711680}Where she live?
+{c255}Ouroborus, to the northwest. You have a device which holds maps ? I shall mark the location down for you. [He enters the coordinates in your PipBoy.] 
+{c16711680}You say you lead snakes. Me not see snakes.
+{c255}A foolish group of tribals called the Ciphers has chosen to defy Hecate. She has ordered their destruction as punishment.
+{c16711680}How did they defy her?
+{c16711680}Why she make them dead?
+{c16711680}There doesn't appear to be much destroying going on.
+{c16711680}You here, not bashing and killing. Not understand.
+{c255}All tribals must have a Daughter of Hecate among them to promote fertility and carry out the will of Hecate. The Ciphers refused, and now they shall pay dearly for their heresy.
+{c16711680}So why are you here instead of killing the Ciphers?
+{c16711680}Me not see you killing. How come?
+{c16711680}You said your gang's name is the Vipers?
+{c255}Mesa Verde is strong. We have been unable to break through, so now we wait to starve them out. We cannot go back to Hecate until we have carried out her will.
+{c16711680}Maybe I can help you with your attack.
+{c16711680}Me help you kill.
+{c255}We are no "gang", stranger. Once, perhaps, years ago. Now we are Hecate's holy warriors, crushing any who displease her or otherwise stand in her way.
+{c255}*sigh* Had a Daughter been present at your birth, stranger, you would have been cast out into the wasteland to die. {i}We {}are the Vipers. It is the name of our band of holy warriors.
+{c255}You are not one of us, and cannot be allowed the honor of fighting beside us. Nor {i}can {}you become one of us ? one is born a Viper, not made.
+{c16711680}Well, is there anything I can {i}else {}I can do?
+{c16711680}How me help you, then?
+{c255}You are unknown to the Ciphers. Perhaps you can gain access to the village and destroy their wind turbine for us. Without the turbine, they will have no source of water.
+{c16711680}I'll do it.
+{c16711680}Me do it.
+{c16711680}If I do it, what's it worth to you?
+{c16711680}You gimme money to do?
+{c255}You {b}dare {}ask for money to carry out Hecate's will? We should kill you for such an insult.
+{c16711680}Okay, fine. I'll do it for free.
+{c16711680}Ack. Me do it for free, okay?
+{c16711680}Bring it, punk!{bc16711680}Me {}insulted. You die!
+{c255}Then I wish you success, stranger. Do not harm any of the Ciphers ? that honor belongs to us.
+{c255}Excellent. And the Ciphers? Do they still live?
+{c16711680}Uh... yeah, sure they are. Happy and alive, that's them.
+{c16711680}Ummm... yup?
+{c16711680}No. They saw me sabotaging the turbine, and I was forced to kill them.
+{c16711680}Nope. They see me break wind thingie, so me kill them.
+{c16711680}Yes, they're still alive, just as you asked.
+{c16711680}Yup, they not dead.
+{c255}Good. I suggest you journey to Ouroborus, stranger. Hecate will want to hear of your deeds in her service. Here ? I shall mark its location in your mapping device. 
+{c255}That was {b}our {}duty, not yours! We must kill you now to avenge our dishonor!
+{c16711680}Bring it!
+{c16711680}Me kill you first!Betty
+{c255}I hear the lie in your voice and see it in your eyes. Their deaths were {b}our {}duty, not yours! We must kill you now to avenge our dishonor!
+{c255}Do it immediately. Hecate grows impatient.

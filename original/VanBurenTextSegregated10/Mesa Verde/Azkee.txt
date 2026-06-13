@@ -1,0 +1,97 @@
+{c255}Speak, outsider.
+{c255}Hello again, my friend. What may I do for you?
+{c16711680}What do you do here?
+{c16711680}What you do here?
+{c16711680}Anything going on that I could help with?
+{c16711680}Me help with something?
+{c16711680}Didn't you mention something about Vipers harassing Mesa Verde?
+{c16711680}You say people bugging village?
+{c16711680}I've removed the Viper threat.
+{c16711680}Bad guys all gone.
+{c16711680}What was that you said about the crops?
+{c16711680}You say you not like crops?
+{c16711680}The new fertilizer Denom used on the crops was radioactive, which is why the crops are so big. It's probably not a good idea to eat anything grown from those fields.
+{c16711680}Fertilizer make crops all glowy and mutated. Not good to eat.
+{c16711680}Is there anything that can help Mesa Verde's food supply?
+{c16711680}What you do about food?
+{c16711680}I arranged for a Hoover Dam caravan to bring you food.
+{c16711680}Men with moo-cows bring you food now.
+{c16711680}Tell me again about what happened to your people.
+{c16711680}Where your people go, again?
+{c16711680}I was able to rescue all of your people.
+{c16711680}Me save all you people. Nobody die.
+{c16711680}I managed to rescue your people, but not all of them survived the escape.
+{c16711680}Me save people, but not all still alive.
+{c16711680}I found your people, but none of them survived the escape.
+{c16711680}Me find people, but they all die.
+{c255}I'm Azkee, Counter for this village.
+{c255}*sigh* I'm Azkee, Counter for this village. Please, don't touch anything.
+{c16711680}What do you count?
+{c16711680}What you counting?
+{c255}The Ciphers you see around you are not all the Ciphers there are. Most are nomads, travelers in the wasteland. It is the Counter's duty to decide who may stay in Mesa Verde, and who must leave.
+{c16711680}What kind of variables?
+{c16711680}Uh, okay. What that mean?
+{c255}Population, for one. Mesa Verde can only support a small number of my people and it is my duty as the Counter to enforce population control.
+{c255}It means I decide who gets to live here, and who must leave.
+{c16711680}I see. So, is there anything you could use some help with?
+{c16711680}Oh. Me help you with something?
+{c255}Yes. The Vipers in the canyon disturb my village, but we are at an impasse ? neither side can defeat the other. Perhaps the help of an outsider like yourself can tip the balance in our favor.
+{c16711680}I'll solve your Viper problem for you. Somehow.
+{c16711680}Me go move Vipers for you.
+{c16711680}Those guys? I already took care of them.
+{c16711680}Me already take care of Vipers.
+{c16711680}What's in it for me if I help you?
+{c16711680}You gimme stuff for me help?
+{c255}We have a small surplus of bullets and chems which are yours if you do what I ask.
+{c16711680}All right. I'll go take care of the Vipers.
+{c16711680}Me go move Vipers now.
+{c16711680}Well, hand them over. I already took care of the Vipers.
+{c16711680}Gimme! Me already take care of Vipers.
+{c255}I wish you luck, outsider.
+{c255}Thank you, outsider. You didn't ask for a reward, but I must offer you some compensation for your efforts. Here, some items we had set aside for trade.
+{c255}Thank you, outsider. Here are the bullets and chems I promised.
+{c16711680}Is there anything else you need help with?
+{c16711680}Me help you more?
+{c255}It's been brought to my attention that the crops are unusually large this season. I'd like you to investigate this matter for me.
+{c16711680}All right. Who do I need to talk to?
+{c16711680}Okay. Who me talk to?
+{c16711680}What's the pay?
+{c16711680}Me want money.
+{c255}If you can find out what has happened to the crops, I'll give you this revolver. It's old, but functional.
+{c16711680}Deal. Who do I need to talk to?
+{c255}See Denom at the top of the mesa. He's the one in charge of the fields and the wind turbine.
+{c255}This is very bad. Without the crops, we must rely entirely on hunting, and hunting alone cannot support the village at its current size. I will be forced to banish people into the wasteland. Oh, and here is the revolver I promised.
+{c16711680}What if you had more food brought to you?
+{c16711680}You get food from other place, maybe?
+{c255}A caravan from Hoover Dam would be the best source for food, but I'm afraid the cost for the shipments would be very high. We can't afford it.
+{c16711680}I'll cover the cost.
+{c16711680}Me pay for everything.
+{c255}You're being generous. I'm surprised, considering that you insisted on payment for my other tasks. Still, I gladly accept your offer.
+{c255}I welcome your generosity, . If you do this for us, you shall always find a place here at Mesa Verde.
+{c16711680}It's a loan, not a gift. I expect you to pay me back one of these days ? with interest.
+{c16711680}It loan. Me want money back someday.
+{c255}Oh. Still, it is the best we can do right now, and I still accept your offer.
+{c255}Thank you, ! Your generosity has allowed many Ciphers too old or too young to travel to remain within the village. 
+{c16711680}Glad I can help. Anything else around here need doing?
+{c16711680}Me happy to help. Me help more?
+{c16711680}Right. Arranging for the shipments cost me a lot of caps. Any idea on when you can start paying me back?
+{c16711680}Um, me pay lots of money. When you pay me?
+{c255}Hmmm... perhaps in a year or two, at the earliest.
+{c16711680}I see. Any other jobs?
+{c16711680}Gah. More jobs?
+{c255}Not right now. Perhaps you can be of assistance to some of my people.
+{c255}! It is good that you have come. A number of my people have been taken.
+{c16711680}Taken? Who took them, and where?
+{c16711680}Who take people? Where they go?
+{c16711680}What does that have to do with me?
+{c16711680}That bad for you, not me.
+{c255}Slavers came to Mesa Verde posing as the caravan from Hoover Dam, and a number of my people went to greet them and were captured. We need your help finding them.
+{c16711680}Me help.
+{c16711680}This has nothing to do with me.
+{c16711680}Too bad. Not problem for me.
+{c255}We are not your people, but I know you must be familiar with many places in the wasteland. We desperately need your help.
+{c16711680}Oh, all right. I'll help you.
+{c16711680}Okay, me help.
+{c16711680}You still owe me for the food caravans. Until then, I'm not lifting a finger to help you.
+{c16711680}Me not get paid yet for food. Me not help you.
+{c255}Thank you. The slavers were spotted heading to the northwest of Mesa Verde. Good luck, and may the numbers come up in your favor."

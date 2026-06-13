@@ -1,0 +1,148 @@
+Power Armor
+
+A suit of power armor built from designs for the pre-war T-51b prototypes. Power armor has a built in fusion generator capable of supporting the massive energy needed for its strength enhancers and other mechanized components.
+
+Power Helmet
+
+A power helmet for use with the T-51b power armor. Built to be the ultimate in pre-war protection, the power helmet has a tendency to dull the wearer's senses with its thick visor, layers of metal, and polymer padding.
+
+Motorcycle Helmet
+
+An extraordinarily pristine motorcycle helmet. Good for protection against wide variety of punches, baseball bats, and similar objects. Though it wasn't made to stop bullets, it will do in a pinch.
+
+9mm FMJ9mm FMJ ammunition 
+
+These bullets will load into any weapon capable of firing 9mm ammo. In pre-war times, 9mm ammunition was used over the more powerful .45 ammunition because of its slight advantage at penetrating armor.
+
+First Aid Kit
+
+A first aid kit. Manufactured by Bringham MedCo, it contains all of the basic elements needed to provide basic medical care.
+
+Security Kit
+
+A security kit. Filled with small picks, files, clippers, grounding wires, small batteries and other special tools, security kits provide the necessary equipment for picking locks and dealing with traps.
+
+Tool kit
+
+A basic tool kit. Developed by the Pittsburg Tool Company, this heavy red box holds hammers, screwdrivers, soldering irons, wire snips, wrenches and hardware for almost any occasion. It provides the user with the necessary equipment to do serious mechanical work.
+
+Scenery:
+
+T6 Fusion Generator
+
+This appears to be a sixth generation Trident class fusion generator from Poseidon Energy. It is relatively large and inefficient, mostly used for the powering of vaults and other small, isolated settlements.
+
+Multi-Monitor Computer
+
+These multi-monitor computer stations are useful for running diagnostics and surveillance camera feed while the user is working on something else.
+
+Floating Eye Bot
+
+An FEB-II floating eye bot.
+
+15mm ARTEMIS Rail Gun
+
+.22 Autoloader
+
+.223 Autoloader
+
+.44 Revolver.45 Autoloader
+
+.45 Revolver
+
+.50 Revolver
+
+9mm Machine Pistol
+
+Manufactured by Rheinmetal AG, this 9mm machinepistol is capable of one-handed use for both single shot and burst attacks. Though it is wildly inaccurate, its potential for loads of short-range damage is high.
+
+APOLLO Laser Pistol
+
+Arc Welder
+
+Baseball Bat
+
+Cattle Prod
+
+A standard pre-war cattle prod. The electrode tips of the weapon deliver an extremely powerful shock that can wound and even kill.
+
+Combat Knife
+
+Crowbar
+
+Dynamite
+
+Flamethrower
+
+Flare
+
+Bio Grenade
+
+EMP Grenade
+
+Frag Grenade
+
+Plasma Grenade
+
+Hand Flamer
+
+Hatchet
+
+Heavy Wrench
+
+Kitchen Knife
+
+Laser Arraygun
+
+Laser Pistol
+
+Lead Pipe
+
+Night Stick
+
+Rock
+
+Shiv
+
+Switchblade
+
+Table Leg
+
+Throwing Knife
+
+.22 FMJ
+
+.22 Injector
+
+.223 FMJ
+
+.30 FMJ
+
+.44 FMJ
+
+.45 FMJ
+
+15mm 
+
+EC2mm 
+
+EC40mm 
+
+RG
+
+7.62mm FMJ
+
+BB
+
+Heavy Rivet
+
+Lil' Rivet
+
+Micro Fusion Cell
+
+Naphate
+
+Rocket HE
+
+Small Energy Cell
+

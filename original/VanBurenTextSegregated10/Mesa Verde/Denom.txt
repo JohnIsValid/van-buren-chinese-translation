@@ -1,0 +1,57 @@
+{c255}Help us! They're everywhere!
+{c16711680}Slow down. What are you talking about?
+{c16711680}Me not understand. What you talking about?
+{c255}Thanks for your help! I'm Denom.
+{c255}That was messy. By the way, I'm Denom.
+{c255}Hello. Is there something I can do for you?
+{c16711680}What were those creatures?
+{c16711680}What those creatures?
+{c16711680}Azkee is concerned about the crops. He says that they're a bit larger than normal.
+{c16711680}Bald leader guy worry about crops. Say they too big.
+{c16711680}That fertilizer you used on the crops is radioactive.
+{c16711680}Dirt is all glowy and stuff. Very bad.
+{c16711680}I brought back a bag of seeds from that wheat I told you about.
+{c16711680}Me bring seeds. 
+{c16711680}Goodbye.
+{c255}I have no idea. We've never seen them before. They just seemed to spring out of the ground.
+{c16711680}What's your job here?
+{c16711680}What job you do?
+{c255}Plant creatures, in the fields! We need help killing them!
+{c16711680}All right, I'm on it.
+{c16711680}Okay, me go kill them.
+{c16711680}Not my problem. Goodbye.
+{c16711680}Nope. Goodbye.
+{c255}I'm in charge of overseeing the crops, as well as keeping the turbine and condensors running.
+{c16711680}Tell me about the turbine.
+{c16711680}Me wanna know about turbine.
+{c16711680}How do the condensors work?
+{c16711680}Wanna know about condensors.
+{c255}We get a lot of wind up here, so the founders of the village built the wind turbine up here to generate electricity. It isn't much energy, but it's enough to power the condensors.
+{c16711680}What do the condensors do?
+{c16711680}What condensors do?
+{c255}The condensors trap moisture in the wind and collect the water for us. It's very slow ? a little more than day's worth of water for the whole village each day. They're powered by the turbine.
+{c255}I can't believe he's complaining about the crops {i}again{}. Just a few weeks ago, he was upset with me because the crops were too scrawny.
+{c16711680}The crops were too scrawny? What did you do to improve them?
+{c16711680}How you make crops big?
+{c255}I used some special fertilizer I got off a merchant who passed through here. He claimed it could make anything grow, and he was right. It's great stuff!
+{c16711680}I'd like to examine this fertilizer.
+{c16711680}Me want to look at fertilizer.
+{c255}I used it all up, but the barrel it came in is in the storage shed over there. Why? What's wrong?
+{c16711680}I don't know yet. Goodbye.
+{c16711680}Me not know yet. Goodbye.
+{c255}What? No, it's not. There must be a mistake.
+{c255}"Glowy"? What are you talking about?
+{c16711680}There's no mistake. I examined the fertilizer barrel with a geiger counter, and it's moderately radioactive.
+{c16711680}Glowy! Point thingie at barrel, it go "beep beep beep!"
+{c255}Oh, no! I've poisoned our fields, and our crops! What am I going to do? We're all going to starve!
+{c255}Oh, no! It's radioactive? I've poisoned our fields, and our crops! What am I going to do? We're all going to starve!
+{c16711680}I don't know right now. I'll speak to Azkee about it.
+{c16711680}Dunno. Me talk to bald leader guy.
+{c16711680}A group at Hoover Dam has developed a type of wheat which cleans the ground it grows in of radiation. I could get some for you.
+{c16711680}Big dam people make plant that clean glowy stuff from dirt. Me get some for you.
+{c255}He's going to have me banished for this, I know it.
+{c255}Really? That's incredible! Yes, please get some for me!
+{c255}Thank you! I'll start planting these right away.
+{c16711680}Whoa, not so fast, farmboy. Those seeds aren't free.
+{c16711680}Nope, you gimme money first. Seeds not free.
+{c255}Oh... uh, of course not. You'll have to talk to Azkee about that.

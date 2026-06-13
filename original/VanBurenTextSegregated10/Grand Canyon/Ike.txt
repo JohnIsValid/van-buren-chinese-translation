@@ -1,0 +1,26 @@
+{c255}Oh, hey! Another living soul! I'm Ike. You gotta help me!
+{c16711680}What's wrong?
+{c16711680}Uh... what wrong?
+{c16711680}Goodbye.
+{c255}So are you going to help me out or what?
+{c255}Thanks for the help! I thought I'd never get out of here. See you around!
+{c255}Go away. You'll just get me killed.
+{c16711680}What's was the problem again?
+{c255}Um, I've got a little problem with this landmine I'm standing on. If I move, boom! So, do you think you could help me out?
+{c16711680}The Grand Canyon has landmines?
+{c255}Oh, no. No, no, {b}no! {} The only other person in the Grand Canyon is a total moron! I'm doomed. {b}Doomed! {}Get away from me!{i}
+{c255}Well, it has at least one, and that's the only one that's important right now. So, can you help me out or what?
+{c16711680}All right, I'll try to help you.
+{c16711680}I {i}could {}help you, depending on how much you paid me.
+{c16711680}How long have you been standing there?
+{c16711680}No way. Goodbye.
+{c255}About three weeks, I think. 
+{c255}Why you greedy- oh, all right! Here, take my pack. I'm only being this generous because none of this stuff is good to me if I'm in a thousand little pieces.
+{c16711680}Done. Now, let's have a look at that mine...
+{c16711680}Forget it. Goodbye.
+{c255}Thanks! Uh, be really careful, okay?
+{c16711680}Let's have a look at that mine...
+{c255}Are you joking? I'm standing on a landmine! How can anyone forget something like that?
+{c255}Landmine, remember? You said you were going to help me?
+{c16711680}I'll try and disarm it.
+{c16711680}I could disarm it, but first things first. What's your life worth to you?

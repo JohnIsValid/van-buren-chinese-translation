@@ -1,0 +1,70 @@
+{c255}*cough* What do you want, outsider?
+{c16711680}Who are you?
+{c16711680}Who you?
+{c16711680}Goodbye.
+{c255}*cough* Hello, again.
+{c255}Hello, doctor! Thanks again for curing me.
+{c255}Hey, doctor, I think I'm getting sick again. I could {i}really {}use some more of that mediciine.
+{c16711680}What do you do around here, Radian?
+{c16711680}What you do here?
+{c16711680}Are you all right?
+{c16711680}You not look good.
+{c16711680}I can probably do something about that illness, Radian.
+{c16711680}Well, Radian, that medicine isn't cheap or easy to come by.
+{c255}Radian. [He begins to shake uncontrollably.]
+{c16711680}What do you do around here?
+{c255}*cough* No. Pretty sick. Not sure what's wrong.
+{c16711680}Hmmm... dilated pupils, clammy skin... do you feel thirsty and dizzy all the time?
+{c16711680}You sick. Me doctor. Me fix you.
+{c16711680}Sorry to hear that. What do you do here?
+{c16711680}Oh. What you do here?
+{c255}Yeah. Been using up more than my share of water. *cough*
+{c16711680}It sounds like you've got High Desert Fever. It's not contagious, but it'll eventually kill you if it isn't treated.
+{c255}*cough* Can you help me?
+{c16711680}Yes, I can. The fever can be treated with common medicines available in my doctor's bag.
+{c16711680}I could, but I don't have a doctor's bag with me right now.
+{c255}Thank you. *cough*
+{c16711680}[Pull out supplies from your doctor's bag and give Radian the cure.]
+{c16711680}[Use supplies from your doctor's bag to give Radian some extremely addictive painkillers instead of the cure.]
+{c255}Please! I need more medicine. I have no money, but I'll do anything. {i}Anything!
+{c16711680}Sing for me.
+{c16711680}Anything, huh? Would you sabotage the wind turbine?
+{c255}Uh... okay. Ahem. "Give me a kiss to build a dream on, and my imagination will thrive upon that kiss. Sweetheart, I ask no more than this: a kiss to build a dream on."{i}
+{c16711680}Nice, very nice.
+{c16711680}Now I want you to do is to sabotage the wind turbine.
+{c255}I can't do that! We couldn't make any more water, and we'd all be doomed!{i}
+{c16711680}Well, I guess you don't need more medicine after all, then. I'll just go sell it, or maybe throw it away, or feed it to an ill-tempered brahmin...
+{c255}No, no! Wait! You bastard, what have you done to me? I'll do what you ask ? just give me the medicine.{i}
+{c255}No, no! Wait! You bitch, what have you done to me? I'll do what you ask ? just give me the medicine.{i}
+{c16711680}I don't think so, Radian. Do what I asked first, and {i}then {}you'll get your medicine.
+{c255}D-don't go anywhere. I'll do it, and be right back.{i}
+{c16711680}All right. Oh, and Radian - don't even think about betraying me.
+{c255}*cough* Wow... I'm feeling pretty good... and sleepy. {i}
+{c16711680}Why don't you just take a nap now, and I'll come see you again in a few hours.
+{c255}I'll do that. Thanks, doctor.{i}
+{c255}Wow! I feel much better already! Thanks, doctor!{i}
+{c16711680}I'll check back in an hour to see how you're doing. Goodbye.
+{c255}*cough* Usually the same as everybody else ? farm, hunt, and guard the village. Been too weak to do that lately.{i}
+{c255}I'm back to helping out with the farming and hunting, thanks to you.{i}
+{c255}I'm feeling a little better, but I'm starting to get the shakes again.{i}
+{c16711680}What's wrong with you?
+{c255}*cough* You, a doctor? Right. *cough* Thanks for the offer, but stay away from me.{i}
+{c16711680}Okay. What you do here?
+{c255}Oh. *cough* Thanks, anyway.{i}
+{c16711680}What do you do here?
+{c255}There, it's done. Give me my medicine!{i}
+{c16711680}Good. Here's your medicine.
+{c255}Am I done humiliating myself? Can I have the medicine now?{i}
+{c16711680}Sure. Here you go.
+{c16711680}Not just yet. I'd also like you to sabotage the wind turbine for me.
+{c255}Ahhhh... feeling {i}so {}much better again.
+{c255}*cough* Hey! Hey, doctor! It's me! Radian, remember?
+{c255}*cough* Hey, doctor. You, uh, brought some medicine for me?
+{c16711680}Why, hello, Radian. What are you doing in Hoover Dam?
+{c16711680}Yes, I did. You'll need to do something for me first, though.
+{c255}*cough* Village is gone ? Vipers got everybody except me. Hey, have you got any more medicine for me? The stuff around here's not so good.
+{c16711680}Sure, Radian. But, there's something I need you to do, first.
+{c16711680}Sorry, I'm out.
+{c255}Again? Okay, what you want done, and I'll go do it. *cough*
+{c16711680}[Pending on Hoover Dam quests]
+{c255}*cough* Well, I'm not going anywhere. Do me a favor and scrounge some up for me, will you? *cough*

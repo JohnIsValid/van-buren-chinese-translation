@@ -1,0 +1,22 @@
+You see a young man.
+Cpl. Armstrong
+GMC Soldier
+You see soldier of the Great Midwest Commonwealth.
+You see Corporal Armstrong of the Great Midwest Commonwealth 13th Armored Infantry Division.
+
+{c255}How can I help you, citizen?
+{c16711680}Who are you?
+{c16711680}What are we doing here?
+{c16711680}What happened? How did I get here?
+{c16711680}Do you know how to use all that gear or is it just for show?
+{c16711680}Nothing right now. Let's go.
+{c255}Corporal Armstrong of the 4th Armored Infantry Division, Great Midwest Commonwealth. I'll help you reach your vault, citizen.
+{c16711680}Okay. Let's go.
+{c255}We need to find your vault entrance, but first we have to get through this bombed out city. There may be Communist insurgents taking advantage of the bombing raid, so be alert, citizen!
+{c255}Your Communist parents didn't believe the government's bombing raid sirens and were reduced to ash. You made your way to the relocation center and I offered to escort you here. It should only be a block or two.
+{c255}I am trained in the use of light and heavy assault weapons and have fifty three hours of field experience in the T-45d Power Armor, citizen. Most of those were during the Anchorage Reclamation.
+{c16711680}What was the Anchorage Reclamation like?
+{c255}Commie Chans everywhere, citizen. Those yellow bastards... We cleaned 'em up good, though, didn't we? Ha, ha, ha!
+{c255}Well, here's the entrance to the vault, citizen. I have to head back to the City now. This T-45d eats up small energy cells like Chans at a rice buffet! Ha, ha, ha! Don't worry, though. We'll send those godless reds packing within the month!
+{c16711680}Thanks, Corporal Armstrong! Goodbye.
+{c16711680}Yeah, okay. Bye.

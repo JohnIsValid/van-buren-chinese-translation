@@ -1,0 +1,119 @@
+{c255}Welcome to Jericho. I'm Mike O'Connor, sheriff and mayor. Most people around here just call me Sheriff.
+{c16711680}Do you have any work for me?
+{c16711680}Me need money.
+{c16711680}Can I ask you a few questions about the town, Sheriff?
+{c16711680}Me ask questions about town, Sheriff?
+{c16711680}What if I want to call you Sally?
+{c16711680}Me call you Sally. 
+{c16711680}Goodbye.
+{c255}What can I do for you?
+{c16711680}Me ask questions about town?
+{c16711680}Tell me about the extermination job again.
+{c16711680}Me want to know about bug-killing job again.
+{c16711680}I exterminated all the vermin.
+{c16711680}Me killed all bugs and rats.
+{c16711680}Tell me about the escaped worker again.
+{c16711680}Me want to know about guy who run away again.
+{c16711680}Delivering Ivan, as promised.
+{c16711680}Me brought Ivan.
+{c16711680}It's done. Jeremiah is dead.
+{c16711680}Me killed Jeremiah.
+{c16711680}I've brought a peace offer from Jeremiah. He'll stop his attacks, and he wants the Mormons to live peacefully in Jericho.
+{c16711680}Marmets not attack caravans any more. They want to live here and be happy.
+{c16711680}The Mormons are getting ready to attack, and they've sworn to put all you sinners in the ground. We'd better attack them first. I can help, but I'll need the help of your best men.
+{c16711680}Marmets coming to kill everybody! Me kill them first, but me need help!
+{c255}Shoot.
+{c255}Right now, Anson's is the only place in town for booze, entertainment, and women. He's got a real knack for importing in the pretty ladies, too. If you need patching up, see Lane, but I think a dead brahmin is more of a doctor than "Doc" Lane.
+{c255}Well, to the southeast there's Burham Springs, where we get the coal for the plant ? bad place, don't go there if you can help it. A bit further that way is Ouroborous, home to some crazy tribals. I wouldn't go there, either.
+{c255}Well, we have a working salt water desalination plant, so we can export water in exchange for other supplies. We've also got our salicornia fields for food. The taste takes some getting used to, though.
+{c16711680}What's there to do around here?
+{c16711680}What stuff to do?
+{c16711680}Any places of interest near Jericho?
+{c16711680}What places near here?
+{c16711680}How does this town survive all the way out here?
+{c16711680}This place far away from other places? How you not die?
+{c16711680}Never mind. Do you have any work for me?
+{c16711680}No more questions. Me need money now.
+{c255}Do you also want a bullet between your eyes?
+{c255}You're not too bright, so I'll let that pass... this time. Don't call me Sally ever again.
+{c16711680}Not really. Can I ask you a few questions instead?
+{c16711680}Okay. Me ask questions?
+{c16711680}Ooooh, is Sally getting angry?
+{c16711680}Me think Sally funny name for man. Hi, Sally!
+{c255}I might, but first you ought to now that all payments are non-negotiable. Now, are you any good in a fight?
+{c255}Ha! Doesn't everybody? I'm guessing you're asking me for work. Well, just so you know, I don't bargain when it comes to payments. Now, are you any good in a fight?
+{c16711680}I can handle myself. What's the job?
+{c16711680}Me fight good. What me do?
+{c16711680}Not really. Can I ask you some questions instead?
+{c16711680}Me crappy fighter. Me ask you questions, okay?
+{c255}We've got several kinds of vermin around here which are starting to make real nuisances of themselves: rats, cockroaches, and wasps. Wipe 'em out, and you get 100 caps.
+{c16711680}I'll do it. Where do I need to go?
+{c16711680}Okay. Me do it. Where me go?
+{c255}To the west of town is the old Union Train station ? the wasps have a nest in there. In the northeast section of town, there are a couple of old, burnt-out buildings housing some huge cockroaches. As for the rats, I'm pretty sure they're coming out of the sewers in the east side of town.
+{c16711680}Before I go, can I ask you some questions?
+{c16711680}Me ask questions before me go?
+{c16711680}All right. Goodbye.
+{c16711680}Me do job. Goodbye.
+{c255}Nicely done. Here's your money. You up for some more work?
+{c16711680}Sure.
+{c16711680}Yup.
+{c255}One of the plant workers, Ivan, decided he'd rather be on the run rather than serve out his sentence in the plant. Find him, bring him back alive, and I'll pay you 500 caps. Talk to Caulwell over at the plant for more details.
+{c16711680}All right, I'll track him down and bring him back.
+{c16711680}Okay. Me go find him.
+{c255}Very nice work ? here's your payment. Deputy, take Ivan and hang him.
+{c16711680}What? You didn't say anything about executing him!
+{c16711680}Why you wanna kill him?
+{c16711680}Is there anything else for me to do?
+{c16711680}Me do something else?
+{c-16777216}
+{c255}Well, I'll take your word for it, but the bounty was only good for a live man.
+{c255}You didn't misunderstand me and kill him, did you? In any case, the bounty was only good for a live man.
+{c16711680}I understand. Got anything else for me?
+{c16711680}Okay. More to do?
+{c16711680}I'll just {b}take {}my money from your corpse, then.
+{c16711680}Me kill you and take money.
+{c255}Ivan was justly sentenced, and instead of serving out that sentence, he chose to escape. I won't have that kind of behavior in Jericho. Deputy, you have your orders.
+{c16711680}Ivan only escaped because he was afraid the air in the plant would kill him. He'll gladly serve out his sentence, but he all wants is to be moved to a cleaner job.
+{c16711680}Ugh, not kill. He, uh, he nice man! 
+{c16711680}I understand. Is there anything else you need me to do?
+{c16711680}Oh, okay. You need me to do more?
+{c255}Hmmm... I see your point. All right, I'll move Ivan over to the salicornia farm, {i}but {}he gets an extra six months added onto his sentence for his little vacation away from Jericho.
+{c16711680}That sounds fair. Now, is there anything else you need me to do?
+{c255}Sorry, but Jericho's a law-abiding town, and our law says that any convict who runs from his sentence gets marked for death. Deputy, take Ivan away.
+{c255}You're not smart enough to understand what's at stake here, so this discussion is over. Deputy, take Ivan away.
+{c16711680}All right. I don't suppose you have any more jobs for me?
+{c16711680}Me want more work.
+{c255}Our caravans are being attacked by a group of Mormons calling themselves the Hands of God. I've decided it's time to end their interference for good, but there are complications.
+{c16711680}What kind of complications?
+{c16711680}What that mean?
+{c16711680}I'll consider it. Goodbye.
+{c16711680}Me think about it. Goodbye.
+{c255}The Mormon camp, which is east of here, has women and children in it. I've got good men working for me, but they're trigger-happy. I'm sending you in the hope that they're won't be a bloodbath.
+{c16711680}I see. So, what exactly did you want me to do?
+{c16711680}Oh. What me do?
+{c255}Jeremiah is their leader. Kill him without harming any of the women or children, if you can manage it. This job's worth 1000 caps if you pull it off.
+{c16711680}I'll do it.
+{c16711680}Me do it.
+{c255}Excellent{i} {}work. Here's the money I promised you, and with that, I believe our business together is concluded.
+{c255}Let me get this straight ? Jeremiah tries to force us out of our own town, burns our caravans when we refuse, and now he expects to live {i}with {}us in peace? What's the catch?
+{c16711680}No catch, sheriff. Jeremiah was just a little overzealous in interpreting God's will, and now he just wants peace. 
+{c16711680}Not catch anything. Marmet guy say he sorry and want to be nice to everybody now.
+{c255}Well, nobody died, so I {i}suppose{} I could forgive those idiots for burning three perfectly good wagons. All right, tell them we have a deal. Oh, and one more thing.
+{c16711680}Yes?
+{c16711680}What that?
+{c255}Nice job. Here's your pay... with a bonus. You've done good today.
+{c255}Dammit! I'd hoped it wouldn't come to this, but now it looks like we've got no choice. I'll get the boys and meet you at the camp.
+{c255}I wasn't born yesterday you know. What, you get some kind of kick out of trying to cause trouble? Get the hell out of my sight before I have you strung up!
+{c255}You know, the Mormons didn't seem very well-armed for a group that was going to attack Jericho.
+{c16711680}What does it matter? Your troubles with them are over, and I want my money.
+{c16711680}Well, me stupid and not know anything. Job done. Gimme money!
+{c255}Yeah, here's your money. Now, get out of here. I don't want to see your face for awhile.
+{c255}You've done a fine thing for Jericho, and I think it's only fair for you to share in our prosperity. I'm giving you a 5 percent stake in the water plant, whether you like it or not.
+{c16711680}And that means?
+{c255}It means that you share in the profits. You can pick up your share at the first of every month. Here's a little advance ? 1500 caps. There's a lot more where that came from, too.
+{c255}I heard about the deal you cut with Hoover Dam ? guns and armor, huh? Well done, even though you had no authority to negotiate on Jericho's behalf.
+{c255}I heard about the deal you cut with Hoover Dam ? guns and action figures? Nice job on the guns, but what the hell are we going to do with dolls, dammit?
+{c16711680}They're not {i}dolls, {}they're {i}action figures{}. 
+{c255}I heard about the deal you cut with Hoover Dam ? armor and action figures? We could use better armor, but what the hell are we going to do with dolls, dammit?
+{c255}You gave Hoover Dam a price cut in exchange for these dolls? You had no right to negotiate a contract with them! What were you thinking?
+{c255}What? Never mind! You're crazy, you know that?

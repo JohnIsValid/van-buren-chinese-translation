@@ -1,0 +1,37 @@
+{c16711680}Can I ask you about the Grand Canyon?
+{c16711680}Me ask about canyon?
+{c255}Yeah?
+{c16711680}What are you doing?
+{c16711680}What you doing?
+{c16711680}Stand still while I kill you.
+{c16711680}Me kill you now.
+{c16711680}Goodbye.
+{c255}What the fuck does it {i}look {}like we're doing? We're watching over Crimson Caravan property. Now get out here before we throw you into the canyon.
+{c-16777216}
+{c255}Ha ha! Hey, guys! Look at the moron! Get out of here before we smash your skull in and make you even stupider than you are now.
+{c-16777216}
+{c16711680}Actually, {i}you're {}the trespasser. Why don't {i}you {}leave before something unfortunate happens to you?
+{c16711680}Nuh-uh! Me fix! Flying box mine! You go away now!
+{c16711680}Come and try it, punk.
+{c16711680}Me make you dead now.
+{c255}Oh, really? And who's going to make us leave? You?
+{c-16777216}
+{c255}Since you're a moron, I'm gonna forget what you just said. Go on, get out of here!
+{c-16777216}
+{c16711680}Of course me, idiot. Look into my eyes and tell me that you don't {i}believe {}I'm capable of slaughtering you and your pathetic little group if I felt like it.
+{c16711680}Gah! Me tear you all apart with bare hands if you not go away {b}now!{ib}
+{c16711680}No, but those old guys have a lot of young friends who are a lot tougher than you. Didn't you wonder why they just stepped aside? Their pals are going to show up any day now and kick your .
+{c16711680}Okay, not me fault when you die. Old guys have lots of friends who not here right now. Soon they come back and kill you. They lots. You not lots.
+{c16711680}Tell hell with diplomacy. Die!
+{c16711680}No more talk! You die now!
+{c255}Whoa, just calm down there. We're just following orders. We don't want any trouble, all right? See, we're leaving now.
+{c-16777216}
+{c255}You just threatened the wrong guy. Kill him!
+{c-16777216}
+{c255}You just threatened the wrong guy. Kill her!
+{c-16777216}
+{c255}Uh, I guess we'll just be leaving, then. Nobody said nothing about having to fight an army.
+{c255}Nice try, but I think you're lying, and I don't like liars. Kill him!
+{c-16777216}
+{c255}Nice try, but I think you're lying, and I don't like liars. Kill her!
+{c-16777216}

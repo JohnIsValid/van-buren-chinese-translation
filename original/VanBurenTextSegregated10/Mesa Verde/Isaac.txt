@@ -1,0 +1,111 @@
+{c255}Hello, there! I'm Isaac. We don't get many outsiders up here at Mesa Verde.
+{c16711680}Hello, Isaac. You look like an outsider yourself. What's your story?
+{c16711680}Hi, Isaac! How come you not painted?
+{c16711680}Goodbye.
+{c255}Still in one piece, I see. Good for you.
+{c16711680}I wasn't able to find a GECK, but I did find a holodisk with a lot of information about GECKs.
+{c16711680}What do you do here?
+{c16711680}What you do here?
+{c16711680}You don't look like a Cipher. Where are you from?
+{c16711680}How come you not painted?
+{c16711680}Maxson Bunker belongs to the Brotherhood of Steel. You're with the Brotherhood?
+{c16711680}I need to get the access codes for the Brotherhood's power armor from you.
+{c16711680}Power armor in Bunker not work. Need codes from you.
+{c255}You're right ? I'm not originally from Mesa Verde, but this is my home now, even though I haven't gone completely{i} {}tribal.
+{c255}Not a bright one, huh? Well, no matter. As for my lack of paint, it's because I'm not from Mesa Verde.
+{c16711680}Where are you from originally?
+{c16711680}Oh. Where you come from?
+{c255}Originally, a little town way out west. More recently, Maxson Bunker.
+{c16711680}Maxson Bunker? Where's that?
+{c16711680}Where that?
+{c16711680}Maxson Bunker? You're with the Brotherhood?
+{c16711680}Bunker? Hey, you Brudderhood!
+{c255}No, not any longer. We had... a difference of opinion, so I decided it was time for me to find my own way.
+{c16711680}I need to get the security codes for the Brotherhood's power armor from you.
+{c16711680}Power armor not work. Need codes from you.
+{c16711680}What made you decide to leave?
+{c16711680}Why you leave?
+{c16711680}I don't suppose you've got any high tech equipment lying around?
+{c255}The Brotherhood was once dedicated to preserving technology, dealing it out in small doses to those it deemed responsible enough to handle it. That all changed. 
+{c16711680}What happened?
+{c16711680}What happen?
+{c255}I still have my own suit of power armor. At the moment, it's just collecting dust since there's little use for it around here, as you can see. 
+{c16711680}I see. So, why did you leave the Brotherhood?
+{c16711680}Since you're not using it, can I have your armor?
+{c255}No, sorry. I may not be Brotherhood anymore, but that doesn't mean I'm going to start handing out advanced technology all over the wasteland.
+{c16711680}All right. So, why did you leave the Brotherhood?
+{c16711680}Well, would you consider {i}selling {}the armor, then?
+{c16711680}I'll just kill you and take the armor, then.
+{c255}Not for any price.
+{c16711680}Right. So, why did you leave the Brotherhooid?
+{c16711680}Everything has a price, Isaac, and I know there has to be something I can trade to you in exchange for the armor. What do you need? Caps? Information?
+{c16711680}Oh, of course. So... where do you keep the armor? Any alarms or traps I should know about?
+{c255}Spoken like a true trader of the wastes. All right, if you want the armor {i}that {}badly, bring me a GECK.
+{c16711680}I have a holodisk full of information about GECKs. Will you take that instead?
+{c16711680}What's that?
+{c16711680}A GECK? As in a Garden of Eden Creation Kit?
+{c255}It's a Garden of Eden Creation Kit. I've always wanted to study them, but they're extremely rare. I almost got my hands on one, but some tribal out west used it to create a new city before I could get to it.
+{c16711680}Oh, that. I have this holodisk with information about GECKs. Will you take it instead of an actual GECK?
+{c16711680}Deal. Now, what do you do around here?
+{c16711680}All right, it's a deal.
+{c16711680}Forget it. Goodbye.
+{c255}You know about them, then? I've always wanted to study them, but they're extremely rare. I almost got my hands on one, but some tribal out west used it to create a new city before I could get to it.
+{c16711680}I have this holodisk with information about GECKs. Will you take it instead of an actual GECK?
+{c255}Very funny. Even if you did manage to run off with it, you still wouldn't be able to use it. It's locked down by a security code, and only I know the code.
+{c16711680}Interesting. So, why did you leave the Brotherhood?
+{c16711680}Good to know. Now, what do you do around here?
+{c16711680}Save me the trouble of stealing it and sell it to me, then. I know there has to be something I can trade to you in exchange for the armor. What do you need? Caps? Information?
+{c255}Well, I didn't really expect you to find a GECK, and a holodisk is better than nothing. We still have a deal - here's the power armor. Take care of it, and it'll take care of you.
+{c255}Quite a ways to the southeast from here. I can't say how they'll receive you if you decide to go there, so be on your toes. 
+{c16711680}I'll keep that in mind. So, what do you do around here?
+{c16711680}Okay. What you do around here?
+{c255}There were a lot of rumors going around - Brotherhood soldiers massacring civilians, stealing technology, and running weapons to Raiders. Among other things.
+{c16711680}Were any of the rumors true?
+{c16711680}That sound bad. It true?
+{c255}Probably. I saw Brotherhood tech in the hands of people who shouldn't have had access to it, and command wasn't explaining how it got there. So, I wanted out, and here I am.
+{c16711680}Did anyone else leave?
+{c16711680}Other people leave, too?
+{c255}A whole bunch of people, actually. All the Scribes ? Brotherhood must be really hurting from this one ? and a few of the Knights, too, I think.
+{c255}Hmmm... he probably used a polymorphic encryption technique, something only a handful of the Scribes knoww anything about it. Fortunately, I'm one of them. Give me a few hours and I'll create a decryption algorithm for you.
+{c16711680}[Wait.]
+{c16711680}Actually, I'm familiar with that technique, too. I'll help you out ? it should cut down on the time.
+{c255}All done. This holodisk has everything you need to remove the security codes.
+{c16711680}What about you? Aren't you going back?
+{c16711680}How come you not go back to Bunker?
+{c255}No, Mesa Verde is my home now. No military chain-of-command, no drills, and no war. Besides, {i}someone{} has to keep Trig from blowing up the village.
+{c255}This place is home now. It's better than the Bunker.
+{c255}I live here, of course. It's nice and quiet most of the time. Now, if you're asking me about my {i}job{}, then I'd have to say it's assisting Trig with her repairs and, uh, ?inventions".
+{c16711680}Something wrong with Trig's inventions?
+{c16711680}Her inventions not good?
+{c255}Most Ciphers are traditionalists. They build and repair electronics based on the specifications laid out by their ancestors, and {i}nothing{b} {}more. Trig is different ? she often tries to be... creative.
+{c255}No, no, I didn't mean for it to sound like that. It's just that Trig's inventions don't always work out the way she intends them to.
+{c16711680}What happens when she's creative?
+{c16711680}What that mean?
+{c255}Most of the time, nothing. Other times, explosions. Trig is imaginative, but lacks the practical knowledge to carry out her ideas. I've been teaching her some of what I know, with mixed results.
+{c255}It just means that her inventions sometimes hurt people on accident. I've been trying to teach her some things which could help her, but she's still impractical at times.
+{c16711680}What kind of mixed results?
+{c16711680}Not understand. What you mean?
+{c255}See that monstrosity by the cliff? Trig's "death cannon". It doesn't fire, and I'm afraid of what might happen if it ever does. That's what I mean.
+{c255}You see that big machine by the cliff? Trig calls it her "death cannon". It doesn't work, and I'm afraid bad things will happen if it ever does work.
+{c255}Well, I had considered Trig's "death cannon" as the best example of one of Trig's interesting but impractical ideas, but it looks it works after all, thanks to you.
+{c16711680}Has she learned {i}anything {}from you?
+{c16711680}Oh. She dumb.
+{c255}Certainly. Trig knows how to build working radios now, something no Cipher has been able to do before. I'm careful not to share too much knowledge, though. Too dangerous for the Ciphers.
+{c255}No, Trig is actually very, very smart. She's learned how to build many things from me, like radios. She's the first Cipher who ever knew how to do that.
+{c16711680}Too dangerous?
+{c255}Mesa Verde is not the place to experiment with things like high-energy equipment. Even if it was, I'm also afraid of making this village a target for every greedy warlord in the region.
+{c255}Hey, you're wearing {i}my {}armor!
+{c255}Is that {i}my {}armor your friend is wearing?
+{c16711680}Uh, yeah. I figured that since you weren't using it, I could borrow it.
+{c16711680}Yup. Me borrow it.
+{c16711680}You're mistaken. I retrieved the armor from a Raider I killed. The suit only looks like yours because they're probably the same model.
+{c16711680}Nuh-uh! Me kill bad guy and take it from him. This armor and your armor just look same.
+{c255}Right. Well, I guess you're going to keep it, seeing as how I don't have a chance of taking it back by force.
+{c16711680}No, I said I only borrowed it, and I meant it. Here, take it back.
+{c16711680}Nope. Me borrow it only, not steal for good. Me give it back now.
+{c16711680}Goodbye. 
+{c255}Oh. Well, you're right - most power armor {i}does{} look alike. I suppose someone might have borrowed my armor to study it. Sorry about the mistake.
+{c255}I'm not senile yet. That's {i}my {}armor, no mistake about it. 
+{c16711680}All right, here. Take it back. 
+{c16711680}Okay. Me give it back. 
+{c255}It doesn't make it right that you took it without permission in the first place, but since you're giving it back, I guess I'll just have to forgive you."

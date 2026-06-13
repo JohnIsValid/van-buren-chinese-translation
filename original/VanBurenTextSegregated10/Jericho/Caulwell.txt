@@ -1,0 +1,50 @@
+{c255}Careful! Those pipes are hot. What do you need?
+{c16711680}Who are you?
+{c16711680}Who you?
+{c16711680}Goodbye.
+{c255}Hey, there. What do you need?
+{c255}You again. Do you like bothering me or something?
+{c16711680}Got any work for me?
+{c16711680}Me want work.
+{c16711680}Tell me about the job again.
+{c16711680}How does the plant work?
+{c16711680}How plant work?
+{c16711680}I'm finished with the repair work.
+{c16711680}I built an automated pump for the plant.
+{c16711680}The sheriff told me to talk to you about the worker who escaped.
+{c16711680}Tell me stuff about worker who run away.
+{c255}I'm Caulwell, and this is my water plant. Well, technically, it's the town's plant, but I run it. I also keep on eye on the convicts, make sure they don't run off or anything.
+{c255}Great ? a moron. I'm Caulwell. I run this place and watch the bad guys who work here. Try not to touch any of the equipment, okay?
+{c16711680}Me wanna know about worker who run away.
+{c16711680}Goodbye
+{c255}It's pretty simple, actually. Salt water gets pumped in from the lake to the boilers, the salt gets boiled out of the water, the steam condenses in those contraptions there, and the fresh water collects in the vat.
+{c255}Uh, look, it's a long complicated process. Let's just say we can magically turn salt water into fresh water, okay?
+{c16711680}Do you have any work for me?
+{c16711680}You're pumping in water from the lake by hand. That doesn't seem very efficient.
+{c255}Hey, that wasn't {i}my{} fault! I keep an eye on these guys during their shift, and after that, it's up to the sheriff's deputies. 
+{c16711680}What exactly happened?
+{c16711680}What happen?
+{c255}I'm not sure how Ivan did it. There's only one door in and out of the worker's barracks, and somehow he managed to get out without being spotted by the deputy on duty.
+{c16711680}Any ideas on where he might be now?
+{c16711680}Where he go?
+{c255}A guy sneaky enough to get past one of the sheriff's deputies probably stowed away with one of the water caravans. I'd check out all the main caravan stops ? Hoover Dam, Fort Abandon, maybe Denver.
+{c255}If you know which end of wrench to hold, you can make yourself useful by inspecting the pipework, storage vat, and filling station. Pay is 50 caps, no more.
+{c255}Like I said before, you can make yourself useful by inspecting the pipework, storage vat, and filling station. I can only pay you 50 caps, but the job really isn't that difficult.
+{c16711680}I'll do it.
+{c16711680}No thanks. Goodbye.
+{c255}Sorry, but your lack of brains probably means you think a wrench is some kind of fancy club used to smash fragile equipment. Run along and play somewhere else, okay?
+{c16711680}Me smash {b}you{} dead!
+{c255}Good. Here's the money I owe you.
+{c255}No, it's not. Even when I make sure these sorry bastards aren't slacking off, they can only pump in the water so fast. There's not much I can do about it, short of working these guys to death.
+{c16711680}What about some sort of automated pump? It wouldn't replace the workers, but it could speed up production.
+{c255}Yeah... yeah, that would work, but where would you get one, and how would you power it?
+{c16711680}You'll probably need some sort of generator to power the pump. If I see anything in my travels, I'll let you know.
+{c255}If you can bring me back an automated pump and a generator, I'll see to it that Jericho pays you a ton of caps. That equipment's the sort of thing we need to really make this town take off.
+{c255}Great! How do you run it?
+{c16711680}I also built a generator which runs on salicornia oil, which, if I'm not mistaken, you've got plenty of around here.
+{c16711680}Uh, I haven't solved that problem yet.
+{c255}Really? Who would've thought that such a thing was possible? All right, let's get his equipment installed. Jones! Wilson! Get your sorry asses over here and help this man.
+{c255}Really? Who would've thought that such a thing was possible? All right, let's get his equipment installed. Jones! Wilson! Get your sorry asses over here and help this lady.
+{c16711680}Let's install the pump over there, and I think the best place for the generator would be over there...
+{c255}Oh. In that case, you can just hang onto that pump for now.
+{c255}We're done here, and it looks like everything's working. Great! Go talk to the sheriff and let him know about the plant's upgrades. Thanks for all your help!

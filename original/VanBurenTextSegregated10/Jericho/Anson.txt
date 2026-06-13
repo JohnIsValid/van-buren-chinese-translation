@@ -1,0 +1,58 @@
+{c255}I haven't seen you around before. I'm Anson, and this is my Rule: start any trouble in here, and I'll kill you. Now, what'll you have?
+{c16711680}Show me what you have.
+{c16711680}Me buy things.
+{c16711680}What do you do here in Jericho?
+{c16711680}What you do here?
+{c16711680}Got any work for me?
+{c16711680}Me need work.
+{c16711680}Goodbye.
+{c255}Yeah?
+{c16711680}Show me what you have for sale.
+{c16711680}What do you do here?
+{c16711680}Tell me about the job again.
+{c16711680}Me wanna know about job again.
+{c16711680}I found out who's been stealing from you.
+{c16711680}Me know who steal from you.
+{c16711680}About my reward...
+{c16711680}You gimme stuff now?
+{c255}I run this place, of course. I've got booze and a variety of "recreational" medicines for sale. I've also got three {i}lovely{} young ladies who are experts at lying on their backs.
+{c255}Hmmm... are you any good at getting into places you're not wanted or staying out of sight for a long time? 
+{c16711680}Sure. What's the job?
+{c16711680}Yup. What me do?
+{c16711680}Never mind. Show me what you have for sale.
+{c16711680}Change mind. Me buy things.
+{c255}Someone's been stealing from the bar at night. Hang around and see if you can catch the thief, or "investigate" other peoples' stuff to see if they have any of {i}my {}stuff.
+{c16711680}What's the pay?
+{c16711680}You gimme money?
+{c255}I'll let you choose from my drugs: one package of Mentats, Buffout, or Afterburner Gum.
+{c16711680}Deal.
+{c16711680}Okay.
+{c16711680}The thief could be carrying a really big knife, so I'd like to choose two drugs.
+{c16711680}Me want more. Maybe thief have big sharp pointy thing. Gimme two!
+{c16711680}A person with my skill should get all three packages as compensation.
+{c16711680}Me very good at job. Worth lots. Gimme three!
+{c16711680}No. Goodbye.
+{c255}No, I think {i}one {}package should be enough of a reward. These drugs aren't cheap, you know.
+{c255}I suppose there could be some danger involved. All right ? you get to pick two, {i}when {}the job is done.
+{c255}Okay, you'll get all three, but you'd better be as good as you say and get the job done quick.
+{c16711680}Deal. Before I go, show me what you have for sale.
+{c16711680}Okay! Me buy things first.
+{c16711680}We have a deal.
+{c16711680}Okay, me take.
+{c255}Well, out with it! Who's the bastard?
+{c16711680}It's Marianne. I found your drugs in her room, and when I confronted her with them, she confessed.
+{c16711680}It Marianne. Me find drugs in room. She tell me she steal them from you.
+{c16711680}It's Marianne. I caught her stealing from the bar.
+{c16711680}It Marianne. Me see her steal from bar.
+{c16711680}It's Doc Lane. He was trying to sell your stuff in his store. He was probably trying to put you out of business.
+{c16711680}It Doc Lane. He sell your stuff in store. He bad man.
+{c16711680}It was an outsider, some guy with a beard. He got away before I could grab him, but I don't think he'll be back.
+{c16711680}Bad guy with beard take your stuff. He run away before me catch him.
+{c255}That ungrateful bitch! Time to go remind her who owns her.
+{c255}I never did trust that bastard. The sheriff is going to hear about this!
+{c255}Some guy... with a beard. All right, let me go talk to the sheriff.
+{c255}You must think I'm an idiot to fall for such an obvious lie. Get out of here! If you come in my bar again, I'll shoot you dead.
+{c16711680}Try and {b}make {}me leave.
+{c16711680}You stupid! Me not leave if me not want to!
+{c255}Good. How you handle the job is up to you. Just find out who it is, and fast.
+{c255}Of course. Here you are.

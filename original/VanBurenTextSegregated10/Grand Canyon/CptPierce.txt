@@ -1,0 +1,51 @@
+{c255}, the great outlaw of the wasteland. It's about time we met. Too bad you're not going to be walking away alive.
+{c255}, the great hero of the wasteland. It's about time we met. Too bad you're not going to be walking away alive.
+{c255}. It's about time we met. Too bad you're not going to be walking away alive.
+{c16711680}Who are you, and how do you know who I am?
+{c16711680}Who you? How you know me?
+{c16711680}You're mistaken. You're the one who's going to die.
+{c16711680}Me kill you.
+{c255}. You've become quite the outlaw during your time in the wasteland. However, you also made the mistake of stepping on Presper's plans one too many times, so it's time for you to die.
+{c255}. You've become quite the hero during your time in the wasteland. However, you also made the mistake of stepping on Presper's plans one too many times, so it's time you to die.
+{c255}. You've been quite busy in the wasteland. However, you also made the mistake of stepping on Presper's plans one too many times, so it's time for you to die.
+{c16711680}Where {i}is{} Presper?
+{c16711680}Where be Presper guy?
+{c16711680}Plans? What plans?
+{c16711680}Uh, what plans you say?
+{c16711680}Bring it on!
+{c16711680}Funny man die now. 
+{c255}Pierce. {i}Captain {}Pierce. My employer's been watching you ever since you left Tibbets. You've become a potential threat to him, which is why you have to die.
+{c16711680}Who's your employer?
+{c16711680}Who boss man?
+{c16711680}We'll just see about that, won't we? 
+{c16711680}Me not die. You die!
+{c255}I'd have expected you to have heard about Doctor Presper by now. He's got great plans for the wasteland, plans which {i}you've {}been interfering with.
+{c16711680}Where is he?
+{c16711680}What kind of "great" plans?
+{c16711680}Enough talking. Let's do this.
+{c255}Somewhere else. Why does it matter? You'll be dead in a few seconds, anyway.
+{c16711680}Humor me. What plans of his have I been interfering with?
+{c16711680}We'll see about that. It's on!
+{c255}Presper's going to erase the mistakes of the NCR and remake civilization into what it {i}should {}have been after the Great War. You yourself have seen how badly the NCR's screwed everything up.
+{c16711680}You actually think Presper's going to keep you around when he's finished with you?
+{c16711680}Wait a second. I've been working towards that same goal! We're on the same side!
+{c16711680}Well, you're not going to live to see it. Let's go!
+{c255}Of course. Why wouldn't he?
+{c16711680}You're a soldier ? violent, unpredictable, {i}uncivilized{}. Once he's got what he wants, Presper's going to remove you just like he wants you to remove me.
+{c16711680}Forget it. Just die.
+{c255}What the hell are you talking about?
+{c16711680}Presper and I have similar plans, but it's because we're not working {i}together{} that we're getting in each other's way. I need to talk to him immediately.
+{c16711680}Never mind. Let's get this fight over with.
+{c255}, I think you're right. All, right ? you're not on my wrong side anymore, but it doesn't mean Presper's not going to send someone else gunning for you.{i}
+{c16711680}Can't have that. How do I find Presper?
+{c255}You know, it did seem like you were following us around, and now it all makes sense. All right, your execution's on hold until you've had a chance to straighten things out with Presper.
+{c16711680}How do I find Presper?
+{c255}Holy , you're a moron. I didn't think people like you could survive in the wasteland. Oh, well. I've got a job to do and you're it. Let's get this over with.
+{c255}*sigh* I've got better things to do than try to explain things to a moron. Let's get this over with.{b}
+{c16711680}Me kill you first!
+{c255}Good try, good try ? you almost had me there. Now it's time for us to make some noise and put you in the ground.{b}
+{c16711680}We'll see who gets put in the ground.
+{c255}I think I'll just take my chances and deal with Presper if the time comes. But, right now, it's time to deal with you. Let's burn some clips, guys!
+{c16711680}You just made your last mistake.
+{c255}We're supposed to rendesvous at a place called Bloomfield. I can show you where it is, but I can't promise Presper will be there when you arrive. 
+{c16711680}Goodbye.

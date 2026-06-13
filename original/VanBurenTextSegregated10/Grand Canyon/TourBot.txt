@@ -1,0 +1,36 @@
+{c255}*click* Scanning... greetings, visitor. This unit is Tour Bot model 01B. Welcome to Grand Canyon National Park. This unit regrets to inform you that the park has been closed to visitors indefinitely. Have a nice day. *click*
+{c255}*click* Scanning... greetings, sir. This unit is Tour Bot model 01B. It has been many years since this unit has interacted with a park ranger. How may this unit be of service? *click*
+{c255}*click* Scanning... greetings, ma'am. This unit is Tour Bot model 01B. It has been many years since this unit has interacted with a park ranger. How may this unit be of service? *click*
+{c16711680}Why do you say I'm a ranger?
+{c16711680}What? Why you say me ranger?
+{c16711680}Can I ask you some questions?
+{c16711680}Me ask questions?
+{c16711680}Show me what's in the lost and found.
+{c16711680}Show me what lost and what found.
+{c16711680}Goodbye.
+{c255}*click* Submit query. *click*
+{c255}*click* Current primary duty: guard this location. Current secondary duty: Maintain lost and found. Previous primary duty: lead tours of the Inner Gorge. Previous secondary duty: none. *click*
+{c255}*click* Grand Canyon: established as national park in 1919. Physical parameters: 277 miles long, 18 miles wide, 1 mile deep. Average of five million visitors per year. National park status removed in 2057 by federal mandate. *click*
+{c255}*click* 2057, February: United States government removes Grand Canyon's protected status as a national park. 2057, May: Uranium mining begins in Grand Canyon. Grand Canyon closed indefinitely. *click*
+{c16711680}What do you do here?
+{c16711680}What you do?
+{c16711680}What can you tell me about the Grand Canyon?
+{c16711680}Me want know about canyon.
+{c16711680}Why is the park closed?
+{c16711680}Why park closed?
+{c16711680}Lost and found? Show me what you have.
+{c16711680}Show what lost and what found.
+{c255}*click* Scanning... access to this unit's lost and found compartment denied. Only park rangers may be granted access. *click*
+{c255}*click* Access to this unit's lost and found compartment granted. Transferring items now. *click*
+{c16711680}All right. Tell me about something.
+{c16711680}Okay. Me ask things.
+{c16711680}Guess I'll have to smash you open, then.
+{c16711680}Me bash you open and take stuff!
+{c255}*click* Your appearance parameters match that of a Grand Canyon park ranger. Therefore, this unit has determined that you are a park ranger. *click*
+{c16711680}I see. Can I ask you some questions?
+{c16711680}Oh. Me ask things?
+{c255}*click* Rescanning... your appearance parameters do not match that of a park ranger. Access denied. *click*
+{c-16777216}
+{c16711680}Oh. Me ask questions.
+{c16711680}Time to break you apart.
+{c16711680}Me break you now.

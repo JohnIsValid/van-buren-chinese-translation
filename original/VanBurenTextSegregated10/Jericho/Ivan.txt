@@ -1,0 +1,63 @@
+{c255}Yeah? What do you want?
+{c16711680}Who are you?
+{c16711680}Who you?
+{c16711680}What are you doing?
+{c16711680}What you doing?
+{c16711680}Goodbye.
+{c255}W-what? Why are you bothering me again?
+{c255}Off to Jericho, I guess?
+{c16711680}You're the Ivan who ran away from Jericho, aren't you?
+{c16711680}You run away from Jericho!
+{c16711680}Let's go.
+{c16711680}We go Jericho now.
+{c255}Um, Ivan. 
+{c16711680}You're the worker who escaped from Jericho!
+{c16711680}Ivan... Ivan... hey, you run away from Jericho!
+{c255}I'm searching this trash for anything valuable. Hey, uh, if this is your claim, I'll just go somewhere else, okay?
+{c255}No! You're wrong. You're, uh, thinking of somebody else!
+{c16711680}No, I've got the right guy.
+{c16711680}Nuh-uh! Me not {i}that {}stupid. You who me look for!
+{c16711680}Sorry about that. Goodbye.
+{c16711680}Oh. Me sorry. Goodbye.
+{c255}Okay, okay - you got me. But, I'll die if you take me back!
+{c16711680}How did you manage to escape?
+{c16711680}How you escape?
+{c16711680}Why will you die?
+{c16711680}How come you die?
+{c16711680}You'll die right {i}now {}if you don't start walking.{ic16711680}Me {}make you die if you not go.
+{c255}I'm not built for manual labor! That plant is going to kill me! All I did was take a {i}few {}things that weren't mine. If I go back to that place, my lungs are going to collapse. Please, just let me go.
+{c16711680}I'll mention that to the sheriff. He's a reasonable man - maybe he'll assign you some other job.
+{c16711680}Me tell sheriff. He nice guy - maybe he make you do other job.
+{c16711680}All right. You're free to go. I'll just tell the sheriff you're dead.
+{c16711680}Okay, you go free. Me tell sheriff that you dead.
+{c16711680}Enough. Don't make me have to drag your corpse back to Jericho.
+{c16711680}No more talk. We go now!
+{c255}Wait! Can't we work out a deal? Just tell the sheriff I'm already dead, and... uh...
+{c16711680}And?
+{c16711680}Uh?
+{c16711680}You're wasting my time. Move!
+{c16711680}No talk! Move!
+{c255}I... I've got nothing. Sorry ? I've got no friends, no connections, and not a single cap in my pocket. Come on, I'm begging you for my {i}life {}here!
+{c16711680}All right, I'll tell the sheriff you're already dead. Now get out of here.
+{c16711680}Me be nice and say you dead. You go away now.
+{c16711680}Too bad. It looks like you and I are going to Jericho.
+{c16711680}Nope. We go Jericho.
+{c255}If I'm going to die, I might as well take you with me, you bastard!
+{c255}If I'm going to die, I might as well take you with me, you bitch!
+{c16711680}You just {i}had{} to do it the hard way.
+{c16711680}Okay, you die now.
+{c255}Thanks! I won't forget this!
+{c255}Well, all right, that sounds like it could work. Okay, I'll go with you.
+{c16711680}Stay right here. I need to take care of something first. And don't even think about running. If I have to hunt you down again...
+{c16711680}You stay. Me go do stuff first. If you run away, me get very, very angry.
+{c16711680}Okay, let's go.
+{c16711680}We go.
+{c255}No, I think you'd just make the sheriff mad, and then he'll take it out on {i}me{}.
+{c16711680}Well, I don't want to send you to your death. I'll just tell the sheriff that you're already dead.
+{c16711680}Me not want you dead, so me tell sheriff you be dead already.{b}
+{c16711680}I'm done negotiating. Come with me, or else.
+{c16711680}You go with me {b}now.
+{c255}I'm not going anywhere, I swear! Uh, bring me back something to eat, will you?
+{c255}The deputy on duty decided to go take a little "break" with one of Anson's girls. I snuck out, hid myself in a water barrel, and got shipped out with the water caravan next morning.
+{c16711680}Well, now you're going back with me.
+{c16711680}Me take you back now.

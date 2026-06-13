@@ -1,0 +1,21 @@
+{c255}Yes, outsider?
+{c255}Outsider! What do you know about what happened here?
+{c16711680}Who are you?
+{c16711680}Who you?
+{c16711680}What are you talking about?
+{c16711680}What you say?
+{c16711680}Goodbye.
+{c255}In order to remain within the village, I must work, something I cannot do if you continue to disturb me. What do you need?
+{c16711680}Trig said you might know something about a docking clamp.
+{c16711680}You know stuff about docking thingie?
+{c255}I am Symm. Is there something you need from me?
+{c255}My people have been {b}slaughtered! {}You are an outsider. What do you know about this?{bc255}Idiot! {}My people are dead! What do you know about this?
+{c16711680}Well, last time I was here, they were having some trouble with the Vipers. Looks like the Vipers won.
+{c16711680}Maybe snake guys kill them.
+{c16711680}Everything. I was the one who killed them.
+{c16711680}Me kill everybody.
+{c255}Then the Vipers shall pay for the murders of my people. Step aside, outsider. My vengeance awaits.
+{c16711680}Wait! Do you know anything about a docking clamp?
+{c16711680}Wait! Me need docking thingie!
+{c255}I have explored many places of the Old World and stored many things in my Pip. Perhaps what you need is in there. I see that you, too, have a Pip. I shall transfer what I know to you. 
+{c255}I shall avenge my people! {b}Die!

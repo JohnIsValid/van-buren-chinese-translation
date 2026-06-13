@@ -1,0 +1,56 @@
+{c255}Hey there, handsome. I'm Marianne. Looking for a good time?
+{c255}Hey, sister. I'm Marianne. You stuck in this hole, too?
+{c16711680}I'm {i}always {}looking for a good time.
+{c16711680}Me like good time! Gimme!
+{c16711680}No, just passing through. Why do you ask?
+{c16711680}Me not stuck in hole!
+{c16711680}I found some of Anson's drugs in your room. 
+{c16711680}Me find drugs in your room.
+{c16711680}Goodbye.
+{c255}Hey again. You need my services?
+{c255}Hey again. You're {i}still {}here? If I were in your place, I'd be long gone from this place.
+{c16711680}Yes, I do.
+{c16711680}Me need sex.
+{c16711680}I'm helping Anson track down the thief who's been robbing him. You know anything about that?
+{c16711680}Me look for person who steal from Anson. You know stuff?
+{c255}25 caps for a Jericho Special, 50 for a Round the Wasteland.
+{c16711680}The Jericho Special sounds good.
+{c16711680}Me want Jericho Special.
+{c16711680}Round the Wasteland, baby.
+{c16711680}Me want to go Round Wasteland.
+{c255}You're lucky. Me, I made one gamble too many and got myself in debt to some really bad guys. They ended up selling me to Anson.
+{c255}Uh... okay. What I meant is that you're free, and can leave when you want. I'm not.
+{c16711680}You're a slave?
+{c16711680}You be slave?
+{c255}Indentured servant, actually. Well, I'm pretty much a slave, but if I pay off my debt to Anson, I'm a a free girl. 
+{c16711680}Maybe I could pay off your debt.
+{c16711680}Maybe me pay your debt?
+{c255}Ha! I wish it was that easy. No, Anson says it's {i}my {}debt, and he says I have to work it off lying on my back like an "honest" woman.
+{c16711680}How much for your "services"?
+{c16711680}Me want sex.
+{c255}What are you doing searching my room? And, uh, besides, I have no idea how those got in there.
+{c16711680}Maybe I'll just tell Anson where I found these and let him decide who's telling the truth.
+{c16711680}Me tell Anson, then. He know you be liar.
+{c16711680}My mistake. Goodbye.
+{c16711680}Oh, okay. Goodbye.
+{c255}No, wait! I admit I stole the drugs, but it was only so I could raise money faster so I can buy my freedom from Anson. I don't want to be a whore anymore! Please - don't tell him.
+{c16711680}All right, I won't tell Anson it was you. 
+{c16711680}Me not tell Anson it you.
+{c16711680}What will you give me to keep quiet? 
+{c16711680}You gimme something and me be quiet.
+{c16711680}Too bad. I'm telling him anyway. 
+{c16711680}Me tell him anyway.
+{c255}Oh, thank you, thank you, thank you! I promise I won't steal from him anymore!
+{c255}Nooooooo!
+{c255}I don't have much... except my savings. Please, I need that money to buy my freedom!
+{c16711680}Forget it. I won't tell Anson anything.
+{c16711680}Me change mind. Me not tell Anson.
+{c16711680}Hand over all the money or I'm telling Anson everything.
+{c16711680}Gimme money or me tell on you.
+{c16711680}Well, I won't take your savings, but I'm still going to tell Anson about you.
+{c16711680}Okay, me not take money, but me still tell on you.
+{c255}*sniff* Fine. But you'd better keep your promise not to turn me in!
+{c255}Nope, not a thing. Look, I've got customers waiting. 
+{c255}All right, come with me.
+{c16711680}Lead the way.
+{c16711680}Me follow.

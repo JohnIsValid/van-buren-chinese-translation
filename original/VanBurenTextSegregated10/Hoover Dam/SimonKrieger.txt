@@ -1,0 +1,63 @@
+{c255}Hello there! I've been looking for someone to talk to about the water plant, but it doesn't seem anyone is around at the moment. 
+{c16711680}Who are you?
+{c16711680}Goodbye.
+{c255}I can't wait here forever, you know. And, *ahem*, I believe we have already "donated" something to your pockets?
+{c255}Hello again! So, are you ready to make a deal with us?
+{c16711680}All right, let's deal. What is Hoover Dam offering in exchange for a lower rate on its water imports?
+{c255}Oh, sorry about that. I'm Krieger, Simon Krieger. My associates and I have come all the way from Hoover Dam to talk to someone about the water plant.
+{c16711680}Well, I have a 5 percent stake in the plant. Can you talk to me?
+{c16711680}What's your interest in the plant?
+{c255}Oh, I'm afraid I can't discuss that with anyone who doesn't have a stake in the plant. Let's just say I've got a deal which could be quite lucrative for everyone involved.
+{c16711680}I've got a 5 percent stake in the plant. Can you talk to me?
+{c255}Good enough for me! Well, word has gotten around that Jericho's water plant is pumping out lot more fresh water these days. We at Hoover Dam could use some of that extra water... at a more reasonable price.
+{c16711680}So, you'd like to work out some sort of low-rate contract?
+{c16711680}What's in it for me?
+{c16711680}Doesn't Jericho already ship water to Hoover Dam?
+{c255}Yes, a long-term one. In exchange for lower rates on Jericho's water ? say, a 15 percent reduction, Hoover Dam is prepared to offer Jericho {i}exclusive {}access to any one of our fine exports.
+{c16711680}What products?
+{c16711680}Only one?
+{c255}Yes, it does. However, we'd like to see to it that Hoover Dam becomes a preferred customer. We're a large town ? importing all that water becomes... expensive.
+{c16711680}I see. What's in it for me?
+{c255}Ha ha! Yes, well, you {i}are {}only giving us one product of your own, aren't you?
+{c16711680}True. So, what products do {i}you {}have to offer?
+{c16711680}Yes, but Jericho's water must be particularly valuable to Hoover Dam for you to come all the way here. It seems to me that Hoover Dam should be offering access to more than one product.
+{c255}We can offer custom-made NCR assault rifles and armor ? always popular items. And last but not least ? NCR action figures!
+{c16711680}All right, I've made my decision.
+{c16711680}NCR action figures?
+{c16711680}You're only offering access to {i}one {}of these products?
+{c16711680}Actually, forget about Jericho for now. Let's talk about Hoover Dam can do for {i}me{}.
+{c255}You have a point. I'm sure my bosses won't be {i}too {}upset if I offered Jericho exclusive access to {i}two {}of our exports.
+{c16711680}Good. So, what kind of products are available?
+{c16711680}Now, let's talk about {i}my {}compensation.
+{c255}Sorry, but I've only been allowed to offer access to {i}one {}of our many fine products. If that's unacceptable to you, then I'm afraid I'll have to talk to someone else.
+{c16711680}All right. What kind of products are available?
+{c16711680}Fine. Goodbye.
+{c255}Well, if you agree to a lower rate, then I'm sure I could see to it that a special negotiator's fee is passed on to you. Say... 3000 caps?
+{c16711680}3000 is acceptable. What kind of products do you offer?
+{c16711680}Only 3000? Anything less than 4000 would be an insult.
+{c16711680}You're wasting my time unless you're offering 5000.
+{c16711680}Forget it. What's Hoover Dam offering?
+{c255}Well, I'd hate to insult you. 4000 it is. Now, shall we discuss the terms of the contract?
+{c255}Well, I'd certainly hate to waste your time, so 5000 it is. Now, shall we discuss the terms of the contract?
+{c16711680}Maybe later. Goodbye.
+{c255}I'm very sorry, but 3000 is all I've been authorized to offer. Take it or leave it.
+{c16711680}I'll take it.
+{c16711680}I'll leave it. Goodbye.
+{c255}I'm happy you see my position. Now, shall we discuss the terms of the contract?
+{c16711680}Yes. What kind of products does Hoover Dam offer?
+{c255}So, which one of our fine products would Jericho like access to?
+{c255}Since you've bartered for two of our products, I guess you'll be wanting the weapons and the armor?
+{c16711680}I'll take the weapons. You can never have enough guns.
+{c16711680}Jericho could use better armor. I'll take the armor.
+{c16711680}The action figures, of course. I'd be crazy not to pick those!{b}
+{c16711680}Yes, that's right. Jericho needs betters weapons and armor.{b}
+{c16711680}No, I'll take the guns... and the action figures.{b}
+{c16711680}No, I'll take the armor... and the action figures.{b}
+{c16711680}Actually, I'm still thinking. Goodbye.
+{c255}All right, just sign here... and here... and here. We're done! Pleasure doing business with you! Perhaps we'll see you in Hoover Dam sometime.
+{c255}Yes, foot tall replicas of our brave NCR Rangers. They come with a variety of miniature weapons, and you can pose them in just about any way imaginable. Very popular item, I might add.
+{c16711680}Sold! Jericho needs action figures!
+{c16711680}Uh, right. I think I know what I want now.
+{c16711680}I'll get back to you. Goodbye.
+{c255}Great choice! As a matter of fact, I happen to have one with me. Here ? hours of enjoyment await you! Now, if you'll sign here... and here... and here. We're done! Pleasure doing business with you! 
+{c255}Great choices! I just happen to have an action figure with me ? here, enjoy! Now, if you'll sign here... and here... and here. We're done! Pleasure doing business with you! 
