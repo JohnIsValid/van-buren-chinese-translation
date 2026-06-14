@@ -25,7 +25,4 @@ van-buren-chinese-translation/
 │ └── design_docs/
 │ ├── 01_Tibbets_Prison.md
 │ └── ...
-├── glossary.md # 术语表（核心翻译对照）
-├── progress.md # 翻译进度追踪
-├── style_guide.md # 翻译风格指南
 └── contributors.md # 贡献者名单
