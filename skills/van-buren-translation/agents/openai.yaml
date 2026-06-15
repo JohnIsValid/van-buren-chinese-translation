@@ -1,7 +1,7 @@
-interface:
+﻿interface:
   display_name: "范布伦计划翻译"
-  short_description: "复制原文到译文目录并保留版式进行专属翻译"
-  default_prompt: "使用 $van-buren-translation 将通过 @ 指定的原文复制到对应译文目录并直接翻译该副本。"
+  short_description: "遵照项目术语表并保护原件和版式的专属翻译"
+  default_prompt: "使用 $van-buren-translation 遵照根目录 glossary.md，检查编码和版式后翻译通过 @ 指定的原文副本。"
 
 policy:
   allow_implicit_invocation: true
